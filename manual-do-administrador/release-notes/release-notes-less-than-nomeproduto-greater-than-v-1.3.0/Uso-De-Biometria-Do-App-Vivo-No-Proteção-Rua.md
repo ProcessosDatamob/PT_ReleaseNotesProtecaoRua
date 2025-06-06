@@ -1,0 +1,5 @@
+# Uso de Biometria do App VIVO no Proteção Rua
+
+**ID: US-BTC-520**
+
+Descrição: No App Proteção Rua, agora você pode usar a biometria do App VIVO para gerenciar suas senhas de forma rápida e segura. Quando você tentar gerenciar suas senhas, o aplicativo irá pedir que você confirme sua identidade através da biometria do App VIVO. Se a autenticação for bem-sucedida, você será direcionado automaticamente para a área de gerenciamento de senhas. Se a autenticação não for bem-sucedida após algumas tentativas, o aplicativo oferecerá outras opções para você continuar. Essa integração foi criada para garantir que seu acesso às senhas seja seguro e ágil.
