@@ -20,3 +20,4 @@
 13. [Tela de Acesso Inicial no Modo Rua](Tela-De-Acesso-Inicial-No-Modo-Rua.md)
 14. [Acesso e Gerenciamento de Locais Seguros no App](Acesso-E-Gerenciamento-De-Locais-Seguros-No-App.md)
 15. [Tela de Bloqueio para Aplicativos Restritos](Tela-De-Bloqueio-Para-Aplicativos-Restritos.md)
+16. [Configuração de Senha e Contato de Emergência no App](Configuração-De-Senha-E-Contato-De-Emergência-No-App.md)
