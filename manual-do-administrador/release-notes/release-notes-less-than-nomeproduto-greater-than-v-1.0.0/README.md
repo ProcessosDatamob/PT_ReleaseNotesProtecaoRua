@@ -29,3 +29,4 @@
 22. [Selecionar Nome para Local Seguro no App Modo Rua](Selecionar-Nome-Para-Local-Seguro-No-App-Modo-Rua.md)
 23. [Definir Área de Abrangência de Local Seguro no Modo Rua](Definir-Área-De-Abrangência-De-Local-Seguro-No-Modo-Rua.md)
 24. [Adicionar Local Seguro no App Modo Rua](Adicionar-Local-Seguro-No-App-Modo-Rua.md)
+25. [Remoção da Tela Inicial de Onboarding do Modo Rua](Remoção-Da-Tela-Inicial-De-Onboarding-Do-Modo-Rua.md)
