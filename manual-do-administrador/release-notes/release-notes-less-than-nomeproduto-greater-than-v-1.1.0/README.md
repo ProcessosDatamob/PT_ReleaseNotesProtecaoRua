@@ -17,3 +17,4 @@
 2. [Validação de Senha no Proteção Rua](Validação-De-Senha-No-Proteção-Rua.md)
 3. [Configurar Raio de Proteção](Configurar-Raio-De-Proteção.md)
 4. [Criação e Gerenciamento de Senhas no Perfil](Criação-E-Gerenciamento-De-Senhas-No-Perfil.md)
+5. [Cadastro de Contato de Confiança](Cadastro-De-Contato-De-Confiança.md)
