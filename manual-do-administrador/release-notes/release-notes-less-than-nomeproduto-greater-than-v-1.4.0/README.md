@@ -28,3 +28,4 @@
 21. [Acessibilidade na Tela de Cadastro de Senha Principal](Acessibilidade-Na-Tela-De-Cadastro-De-Senha-Principal.md)
 22. [Acessibilidade da Tela de Sincronização para Deficientes Visuais](Acessibilidade-Da-Tela-De-Sincronização-Para-Deficientes-Visuais.md)
 23. [Acessibilidade na Tela de Permissões](Acessibilidade-Na-Tela-De-Permissões.md)
+24. [Acessibilidade na Ativação de Localização do Proteção Rua](Acessibilidade-Na-Ativação-De-Localização-Do-Proteção-Rua.md)
