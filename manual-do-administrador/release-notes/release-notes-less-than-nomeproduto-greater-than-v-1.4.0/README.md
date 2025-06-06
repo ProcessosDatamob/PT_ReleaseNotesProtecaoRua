@@ -14,3 +14,4 @@
 7. [Acessibilidade da Tela de Contato de Confiança](Acessibilidade-Da-Tela-De-Contato-De-Confiança.md)
 8. [Tela de Feedback para Alteração de Senha](Tela-De-Feedback-Para-Alteração-De-Senha.md)
 9. [Acessibilidade da Senha de Emergência](Acessibilidade-Da-Senha-De-Emergência.md)
+10. [Acessibilidade na Tela de Gerenciar Senhas](Acessibilidade-Na-Tela-De-Gerenciar-Senhas.md)
