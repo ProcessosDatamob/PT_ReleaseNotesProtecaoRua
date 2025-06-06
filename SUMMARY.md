@@ -57,6 +57,7 @@
     * [Configurar Raio De Proteção](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Configurar-Raio-De-Proteção.md)
     * [Criação E Gerenciamento De Senhas No Perfil](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Criação-E-Gerenciamento-De-Senhas-No-Perfil.md)
     * [Cadastro De Contato De Confiança](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Cadastro-De-Contato-De-Confiança.md)
+    * [Cadastro De Senha De Emergência No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Cadastro-De-Senha-De-Emergência-No-App-Proteção-Rua.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Atualização Da Tela Home No Ios](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Atualização-Da-Tela-Home-No-Ios.md)
     * [Visibilidade E Navegação Na Tela Home Ios](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidade-E-Navegação-Na-Tela-Home-Ios.md)
