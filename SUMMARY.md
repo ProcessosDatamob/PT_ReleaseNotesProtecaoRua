@@ -23,6 +23,7 @@
     * [Indicação De Local Seguro No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Indicação-De-Local-Seguro-No-Portal.md)
     * [Configuração De Proteções Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Configuração-De-Proteções-Na-Home.md)
     * [Gerenciamento Do Status Da Licença No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gerenciamento-Do-Status-Da-Licença-No-App.md)
+    * [Gerenciar Contatos De Confiança No Aplicativo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gerenciar-Contatos-De-Confiança-No-Aplicativo.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botão Switch Master Inativo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botão-Switch-Master-Inativo.md)
     * [Bloqueio De Apps Fora Do Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueio-De-Apps-Fora-Do-Local-Seguro.md)
