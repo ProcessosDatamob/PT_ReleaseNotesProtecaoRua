@@ -16,3 +16,4 @@
 9. [Acessibilidade da Senha de Emergência](Acessibilidade-Da-Senha-De-Emergência.md)
 10. [Acessibilidade na Tela de Gerenciar Senhas](Acessibilidade-Na-Tela-De-Gerenciar-Senhas.md)
 11. [Acesso Fácil à Tela de Gerenciar Senhas](Acesso-Fácil-À-Tela-De-Gerenciar-Senhas.md)
+12. [Acessibilidade Melhorada na Tela de Perfil](Acessibilidade-Melhorada-Na-Tela-De-Perfil.md)
