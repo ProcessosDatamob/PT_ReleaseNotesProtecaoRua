@@ -6,3 +6,4 @@
 ### **Novidades**
 
 1. [Acesso Facilitado às Notificações](Acesso-Facilitado-Às-Notificações.md)
+2. [Acessibilidade da Tela Geral de Erro](Acessibilidade-Da-Tela-Geral-De-Erro.md)
