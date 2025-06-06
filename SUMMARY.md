@@ -19,5 +19,4 @@
 
 ## RELEASE NOTES
 
-* [Release Notes Proteção Rua](release-notes/release-notes-protecao-rua/README.md)
-  * [Release Notes V 1.1.0](release-notes/release-notes-protecao-rua/release-notes-v-1.1.0.md)
+* [Release Notes Proteção Rua](release-notes/release-notes-protecao-rua.md)
