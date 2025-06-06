@@ -1,5 +1,5 @@
-# Technical Description of the Protection Solution - Android
+# Descritivo Técnico da Solução Proteção Rua - Android
 
-### **Solution Presentation**
+### **Apresentação da Solução**  <a href="#apresentacao-da-solucao" id="apresentacao-da-solucao"></a>
 
-The Street Mode is a security application developed for Android and iOS devices that allows users to protect access to specific apps or app categories based on geofences (trusted locations). It is possible to register up to 20 trusted locations and configure automatic app blocking when leaving these geographic areas. This solution provides an additional layer of security, ensuring that sensitive applications remain inaccessible outside of secure locations.
+O Modo Rua é um aplicativo de segurança desenvolvido para dispositivos Android e iOS que permite aos usuários protegerem o acesso a determinados aplicativos ou categorias de aplicativos com base em geofences (locais confiáveis). É possível cadastrar até 20 locais confiáveis e configurar o bloqueio automático de aplicativos ao sair dessas áreas geográficas. Essa solução proporciona uma camada adicional de segurança, garantindo que aplicações sensíveis fiquem inacessíveis fora de locais seguros.
