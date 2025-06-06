@@ -23,6 +23,7 @@
     * [Sugestão De Cadastro De Local Confiável No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Sugestão-De-Cadastro-De-Local-Confiável-No-App-Proteção-Rua.md)
     * [Envio Automático De Sms Para Contato De Confiança](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Envio-Automático-De-Sms-Para-Contato-De-Confiança.md)
     * [Notificação De Configurações Incompletas No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Configurações-Incompletas-No-App-Proteção-Rua.md)
+    * [Notificação De Configurações Pendentes No Primeiro Login](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Configurações-Pendentes-No-Primeiro-Login.md)
   * [Release Notes \<NomeProduto> V 1.2.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Navegação Rápida Entre Abas Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Navegação-Rápida-Entre-Abas-Na-Home.md)
     * [Comportamento Do Switch Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Comportamento-Do-Switch-Na-Home.md)
