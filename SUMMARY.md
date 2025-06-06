@@ -29,6 +29,7 @@
     * [Acessibilidade Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Da-Senha-De-Emergência.md)
     * [Acessibilidade Na Tela De Gerenciar Senhas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Gerenciar-Senhas.md)
     * [Acesso Fácil À Tela De Gerenciar Senhas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acesso-Fácil-À-Tela-De-Gerenciar-Senhas.md)
+    * [Acessibilidade Melhorada Na Tela De Perfil](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Melhorada-Na-Tela-De-Perfil.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
