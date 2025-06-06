@@ -13,3 +13,4 @@
 6. [Integração de Notificações Push com Firebase](Integração-De-Notificações-Push-Com-Firebase.md)
 7. [Autenticação OAuth Vivo no app Proteção Rua](Autenticação-Oauth-Vivo-No-App-Proteção-Rua.md)
 8. [Ativação com Token OAuth no App Proteção Rua](Ativação-Com-Token-Oauth-No-App-Proteção-Rua.md)
+9. [Autenticação via OAuth no App Proteção Rua](Autenticação-Via-Oauth-No-App-Proteção-Rua.md)
