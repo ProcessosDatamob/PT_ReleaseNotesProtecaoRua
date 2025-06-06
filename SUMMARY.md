@@ -26,6 +26,7 @@
     * [Notificação De Configurações Pendentes No Primeiro Login](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Configurações-Pendentes-No-Primeiro-Login.md)
     * [Notificação De Permissões Faltantes No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Permissões-Faltantes-No-App.md)
     * [Uso De Biometria Do App Vivo No Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Uso-De-Biometria-Do-App-Vivo-No-Proteção-Rua.md)
+    * [Navegação Após Bloqueio De Senha No Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Navegação-Após-Bloqueio-De-Senha-No-Proteção-Rua.md)
   * [Release Notes \<NomeProduto> V 1.2.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Navegação Rápida Entre Abas Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Navegação-Rápida-Entre-Abas-Na-Home.md)
     * [Comportamento Do Switch Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Comportamento-Do-Switch-Na-Home.md)
