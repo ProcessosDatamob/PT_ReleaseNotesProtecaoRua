@@ -30,6 +30,7 @@
     * [Atualizar Contato De Confiança No Aplicativo Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Atualizar-Contato-De-Confiança-No-Aplicativo-Proteção-Rua.md)
     * [Gerenciamento De Senhas Pelo Perfil](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gerenciamento-De-Senhas-Pelo-Perfil.md)
     * [Notificação De Permissões Pendentes No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Notificação-De-Permissões-Pendentes-No-App.md)
+    * [Acesso Inicial À Tela Home Com Permissões Concedidas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Acesso-Inicial-À-Tela-Home-Com-Permissões-Concedidas.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botão Switch Master Inativo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botão-Switch-Master-Inativo.md)
     * [Bloqueio De Apps Fora Do Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueio-De-Apps-Fora-Do-Local-Seguro.md)
