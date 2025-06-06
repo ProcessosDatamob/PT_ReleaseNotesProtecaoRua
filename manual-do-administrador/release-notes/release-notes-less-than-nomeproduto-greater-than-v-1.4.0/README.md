@@ -18,3 +18,4 @@
 11. [Acesso Fácil à Tela de Gerenciar Senhas](Acesso-Fácil-À-Tela-De-Gerenciar-Senhas.md)
 12. [Acessibilidade Melhorada na Tela de Perfil](Acessibilidade-Melhorada-Na-Tela-De-Perfil.md)
 13. [Acessibilidade da Tela de Feedback](Acessibilidade-Da-Tela-De-Feedback.md)
+14. [Acessibilidade na Tela de Contato de Confiança](Acessibilidade-Na-Tela-De-Contato-De-Confiança.md)
