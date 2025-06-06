@@ -21,3 +21,4 @@
 7. [Gerenciamento de Senhas pelo Perfil](Gerenciamento-De-Senhas-Pelo-Perfil.md)
 8. [Notificação de Permissões Pendentes no App](Notificação-De-Permissões-Pendentes-No-App.md)
 9. [Acesso Inicial à Tela Home com Permissões Concedidas](Acesso-Inicial-À-Tela-Home-Com-Permissões-Concedidas.md)
+10. [Recebimento e Resposta de Push de Teste no App Proteção Rua](Recebimento-E-Resposta-De-Push-De-Teste-No-App-Proteção-Rua.md)
