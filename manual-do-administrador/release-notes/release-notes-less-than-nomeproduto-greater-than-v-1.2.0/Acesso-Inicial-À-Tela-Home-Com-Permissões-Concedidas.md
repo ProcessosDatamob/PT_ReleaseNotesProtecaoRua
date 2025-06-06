@@ -1,0 +1,5 @@
+# Acesso Inicial à Tela Home com Permissões Concedidas
+
+**ID: US-BTC-380**
+
+Quando você abre o aplicativo <NomeProduto> pela primeira vez, após ter autorizado todas as permissões, você será levado à tela Home. Nessa tela, você terá acesso às funcionalidades principais e poderá ver o status geral do aplicativo. Se ainda não tiver configurado suas informações, ao tocar em "Configure suas proteções", você será orientado a definir senhas, adicionar contatos, registrar locais ou selecionar aplicativos. Após concluir essas configurações, uma mensagem de confirmação será mostrada. Se você estiver em um local que foi registrado como seguro, o aplicativo mostrará que todos os aplicativos estão operando normalmente; caso contrário, eles estarão em modo protegido. O Switch Master estará sempre ligado, indicando que a "Proteção Rua" está ativa.
