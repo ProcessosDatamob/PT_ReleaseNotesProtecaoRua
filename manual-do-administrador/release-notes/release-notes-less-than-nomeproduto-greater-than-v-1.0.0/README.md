@@ -17,3 +17,4 @@
 10. [Configuração da Redirect URI para OAuth](Configuração-Da-Redirect-Uri-Para-Oauth.md)
 11. [Tela de Splash Screen no App](Tela-De-Splash-Screen-No-App.md)
 12. [Personalização de Aplicativos no Modo Rua](Personalização-De-Aplicativos-No-Modo-Rua.md)
+13. [Tela de Acesso Inicial no Modo Rua](Tela-De-Acesso-Inicial-No-Modo-Rua.md)
