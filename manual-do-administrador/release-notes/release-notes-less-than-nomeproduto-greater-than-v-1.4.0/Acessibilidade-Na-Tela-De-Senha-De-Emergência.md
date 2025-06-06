@@ -1,5 +1,5 @@
 # Acessibilidade na Tela de Senha de Emergência
 
-**ID: US-BTC-458**
+**ID: US-BTC-457**
 
-A tela de criação e confirmação da senha de emergência do Proteção Rua foi projetada para ser acessível a usuários com deficiência visual. Para garantir uma navegação fácil, todos os elementos na tela têm descrições claras e são identificados de maneira que os leitores de tela possam interpretar corretamente. Os componentes são apresentados em uma sequência lógica, facilitando a compreensão. Além disso, se ocorrer algum erro, uma notificação sonora é acionada imediatamente, garantindo que o usuário seja informado sem atrasos, tornando a experiência mais inclusiva e amigável.
+Descrição: No portal Proteção Rua, a tela de detalhes da Senha de Emergência agora está mais fácil de usar para pessoas com deficiência visual. Quando o leitor de tela está ativo, todos os elementos são lidos de forma que faça sentido, cada parte da tela tem uma descrição clara e é identificada corretamente. Isso torna mais fácil para quem usa tecnologias assistivas entender e interagir com a tela.
