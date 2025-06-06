@@ -27,6 +27,7 @@
     * [Gestão Segura De Configurações No App "Proteção Rua"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gestão-Segura-De-Configurações-No-App-"Proteção-Rua".md)
     * [Alterar Senha Principal No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Alterar-Senha-Principal-No-App-Proteção-Rua.md)
     * [Alterar Senha De Emergência No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Alterar-Senha-De-Emergência-No-App-Proteção-Rua.md)
+    * [Atualizar Contato De Confiança No Aplicativo Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Atualizar-Contato-De-Confiança-No-Aplicativo-Proteção-Rua.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botão Switch Master Inativo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botão-Switch-Master-Inativo.md)
     * [Bloqueio De Apps Fora Do Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueio-De-Apps-Fora-Do-Local-Seguro.md)
