@@ -17,3 +17,4 @@
 10. [Gerenciamento de Tentativas de Senha no Proteção Rua](Gerenciamento-De-Tentativas-De-Senha-No-Proteção-Rua.md)
 11. [Redefinição de Senha com Biometria](Redefinição-De-Senha-Com-Biometria.md)
 12. [Acesso às Perguntas Frequentes no App Proteção Rua](Acesso-Às-Perguntas-Frequentes-No-App-Proteção-Rua.md)
+13. [Tela de Notificações do App Proteção Rua](Tela-De-Notificações-Do-App-Proteção-Rua.md)
