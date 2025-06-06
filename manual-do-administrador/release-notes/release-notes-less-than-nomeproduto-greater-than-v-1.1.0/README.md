@@ -33,3 +33,4 @@
 18. [Renovação Automática de Token de Acesso](Renovação-Automática-De-Token-De-Acesso.md)
 19. [Criação e Edição de Locais Seguros no Mapa](Criação-E-Edição-De-Locais-Seguros-No-Mapa.md)
 20. [Sincronização Automática de Locais no App Proteção Rua](Sincronização-Automática-De-Locais-No-App-Proteção-Rua.md)
+21. [Gerenciamento de Perfil no App Proteção Rua](Gerenciamento-De-Perfil-No-App-Proteção-Rua.md)
