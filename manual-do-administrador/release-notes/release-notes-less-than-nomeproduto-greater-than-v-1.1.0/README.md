@@ -30,3 +30,4 @@
 15. [Permissão de Notificações no App Proteção Rua](Permissão-De-Notificações-No-App-Proteção-Rua.md)
 16. [Permissão de Localização no App Proteção Rua](Permissão-De-Localização-No-App-Proteção-Rua.md)
 17. [Concessão de Permissão de Tempo de Uso no App Proteção Rua](Concessão-De-Permissão-De-Tempo-De-Uso-No-App-Proteção-Rua.md)
+18. [Renovação Automática de Token de Acesso](Renovação-Automática-De-Token-De-Acesso.md)
