@@ -25,6 +25,7 @@
     * [Acessibilidade Para Permissões Pendentes](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Para-Permissões-Pendentes.md)
     * [Acessibilidade Na Edição De Contato De Confiança](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Edição-De-Contato-De-Confiança.md)
     * [Acessibilidade Da Tela De Contato De Confiança](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Da-Tela-De-Contato-De-Confiança.md)
+    * [Tela De Feedback Para Alteração De Senha](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Tela-De-Feedback-Para-Alteração-De-Senha.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
