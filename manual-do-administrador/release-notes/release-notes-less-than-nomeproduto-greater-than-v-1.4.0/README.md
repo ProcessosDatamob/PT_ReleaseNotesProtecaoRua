@@ -15,3 +15,4 @@
 8. [Tela de Feedback para Alteração de Senha](Tela-De-Feedback-Para-Alteração-De-Senha.md)
 9. [Acessibilidade da Senha de Emergência](Acessibilidade-Da-Senha-De-Emergência.md)
 10. [Acessibilidade na Tela de Gerenciar Senhas](Acessibilidade-Na-Tela-De-Gerenciar-Senhas.md)
+11. [Acesso Fácil à Tela de Gerenciar Senhas](Acesso-Fácil-À-Tela-De-Gerenciar-Senhas.md)
