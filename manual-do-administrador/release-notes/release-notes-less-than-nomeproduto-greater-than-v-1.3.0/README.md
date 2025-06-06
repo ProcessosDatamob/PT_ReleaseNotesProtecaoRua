@@ -11,3 +11,4 @@
 4. [Envio Automático de SMS para Contato de Confiança](Envio-Automático-De-Sms-Para-Contato-De-Confiança.md)
 5. [Notificação de Configurações Incompletas no App Proteção Rua](Notificação-De-Configurações-Incompletas-No-App-Proteção-Rua.md)
 6. [Notificação de Configurações Pendentes no Primeiro Login](Notificação-De-Configurações-Pendentes-No-Primeiro-Login.md)
+7. [Notificação de Permissões Faltantes no App](Notificação-De-Permissões-Faltantes-No-App.md)
