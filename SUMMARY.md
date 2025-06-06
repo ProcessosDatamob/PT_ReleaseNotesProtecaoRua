@@ -79,6 +79,7 @@
     * [Renovação Automática De Token De Acesso](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Renovação-Automática-De-Token-De-Acesso.md)
     * [Criação E Edição De Locais Seguros No Mapa](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Criação-E-Edição-De-Locais-Seguros-No-Mapa.md)
     * [Sincronização Automática De Locais No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Sincronização-Automática-De-Locais-No-App-Proteção-Rua.md)
+    * [Gerenciamento De Perfil No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Gerenciamento-De-Perfil-No-App-Proteção-Rua.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Atualização Da Tela Home No Ios](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Atualização-Da-Tela-Home-No-Ios.md)
     * [Visibilidade E Navegação Na Tela Home Ios](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidade-E-Navegação-Na-Tela-Home-Ios.md)
