@@ -7,3 +7,4 @@
 
 1. [Botão Switch Master Inativo](Botão-Switch-Master-Inativo.md)
 2. [Bloqueio de Apps Fora do Local Seguro](Bloqueio-De-Apps-Fora-Do-Local-Seguro.md)
+3. [Atualização de Mensagem na Tela Home](Atualização-De-Mensagem-Na-Tela-Home.md)
