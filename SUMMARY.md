@@ -40,6 +40,7 @@
     * [Personalização De Aplicativos No Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Personalização-De-Aplicativos-No-Modo-Rua.md)
     * [Tela De Acesso Inicial No Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-De-Acesso-Inicial-No-Modo-Rua.md)
     * [Acesso E Gerenciamento De Locais Seguros No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Acesso-E-Gerenciamento-De-Locais-Seguros-No-App.md)
+    * [Tela De Bloqueio Para Aplicativos Restritos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-De-Bloqueio-Para-Aplicativos-Restritos.md)
 
 ## RELEASE NOTES
 
