@@ -89,3 +89,4 @@
     * [Tela Inicial Do Modo Rua Em Local Não Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-Inicial-Do-Modo-Rua-Em-Local-Não-Seguro.md)
     * [Tela Inicial Do Modo Rua Em Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-Inicial-Do-Modo-Rua-Em-Local-Seguro.md)
     * [Tela Inicial Do Modo Rua No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-Inicial-Do-Modo-Rua-No-App.md)
+    * [Permissão De Notificações Para Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Permissão-De-Notificações-Para-Modo-Rua.md)
