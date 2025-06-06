@@ -40,3 +40,4 @@
 33. [Acessibilidade na Tela "Definir Área Segura" do App Proteção Rua](Acessibilidade-Na-Tela-"Definir-Área-Segura"-Do-App-Proteção-Rua.md)
 34. [Acessibilidade na Tela "Adicionar Local Seguro"](Acessibilidade-Na-Tela-"Adicionar-Local-Seguro".md)
 35. [Acessibilidade na Seleção de Linhas](Acessibilidade-Na-Seleção-De-Linhas.md)
+36. [Acessibilidade na Tela Inicial do App Não Configurada](Acessibilidade-Na-Tela-Inicial-Do-App-Não-Configurada.md)
