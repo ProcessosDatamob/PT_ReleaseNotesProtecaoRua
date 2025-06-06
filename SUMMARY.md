@@ -93,3 +93,4 @@
     * [Permissão De Tempo De Uso Para Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Permissão-De-Tempo-De-Uso-Para-Modo-Rua.md)
     * [Gerenciamento De Permissão De Localização No App Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gerenciamento-De-Permissão-De-Localização-No-App-Modo-Rua.md)
     * [Configuração De Permissões No Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuração-De-Permissões-No-Modo-Rua.md)
+    * [Cadastro De Senha Numérica No Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Cadastro-De-Senha-Numérica-No-Modo-Rua.md)
