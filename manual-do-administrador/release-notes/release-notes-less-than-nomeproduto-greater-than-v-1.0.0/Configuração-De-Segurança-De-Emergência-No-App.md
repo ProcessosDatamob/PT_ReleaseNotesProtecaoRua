@@ -1,0 +1,5 @@
+# Configuração de Segurança de Emergência no App
+
+**ID da US: US-BTC-129**
+
+**Descrição:** No aplicativo, você pode configurar uma senha de emergência e adicionar um contato de confiança para situações de perigo. Ao acessar a seção de Senhas e Acessos, você poderá criar uma senha de emergência que, quando usada, enviará um alerta via SMS para o contato de confiança que você escolher. O processo é simples e consiste em três etapas: primeiro, adicionar o contato de confiança; em seguida, criar uma senha de emergência; e, por fim, concluir a configuração. Se a senha que você criar não atender aos critérios exigidos, como ter pelo menos 6 dígitos e não ser composta por números sequenciais, uma mensagem de erro aparecerá. Assim que a configuração estiver completa com sucesso, você receberá uma confirmação, proporcionando uma camada extra de segurança para você.
