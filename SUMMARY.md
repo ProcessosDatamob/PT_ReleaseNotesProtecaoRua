@@ -74,3 +74,4 @@
     * [Tela De Bloqueio Para Aplicativos Restritos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-De-Bloqueio-Para-Aplicativos-Restritos.md)
     * [Configuração De Senha E Contato De Emergência No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuração-De-Senha-E-Contato-De-Emergência-No-App.md)
     * [Configuração De Segurança De Emergência No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuração-De-Segurança-De-Emergência-No-App.md)
+    * [Gerenciamento De Locais Seguros E Bloqueio De Apps No Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gerenciamento-De-Locais-Seguros-E-Bloqueio-De-Apps-No-Modo-Rua.md)
