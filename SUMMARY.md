@@ -21,6 +21,7 @@
     * [Navegação Rápida Entre Abas Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Navegação-Rápida-Entre-Abas-Na-Home.md)
     * [Comportamento Do Switch Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Comportamento-Do-Switch-Na-Home.md)
     * [Indicação De Local Seguro No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Indicação-De-Local-Seguro-No-Portal.md)
+    * [Configuração De Proteções Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Configuração-De-Proteções-Na-Home.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botão Switch Master Inativo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botão-Switch-Master-Inativo.md)
     * [Bloqueio De Apps Fora Do Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueio-De-Apps-Fora-Do-Local-Seguro.md)
