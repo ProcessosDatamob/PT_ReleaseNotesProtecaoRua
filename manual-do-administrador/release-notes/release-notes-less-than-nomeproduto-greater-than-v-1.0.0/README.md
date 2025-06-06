@@ -34,3 +34,4 @@
 27. [Tela Inicial do Modo Rua em Local Seguro](Tela-Inicial-Do-Modo-Rua-Em-Local-Seguro.md)
 28. [Tela Inicial do Modo Rua no App](Tela-Inicial-Do-Modo-Rua-No-App.md)
 29. [Permissão de Notificações para Modo Rua](Permissão-De-Notificações-Para-Modo-Rua.md)
+30. [Permissão de Tempo de Uso para Modo Rua](Permissão-De-Tempo-De-Uso-Para-Modo-Rua.md)
