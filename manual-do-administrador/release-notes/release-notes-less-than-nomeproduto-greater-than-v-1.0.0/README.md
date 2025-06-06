@@ -31,3 +31,4 @@
 24. [Adicionar Local Seguro no App Modo Rua](Adicionar-Local-Seguro-No-App-Modo-Rua.md)
 25. [Remoção da Tela Inicial de Onboarding do Modo Rua](Remoção-Da-Tela-Inicial-De-Onboarding-Do-Modo-Rua.md)
 26. [Tela Inicial do Modo Rua em Local Não Seguro](Tela-Inicial-Do-Modo-Rua-Em-Local-Não-Seguro.md)
+27. [Tela Inicial do Modo Rua em Local Seguro](Tela-Inicial-Do-Modo-Rua-Em-Local-Seguro.md)
