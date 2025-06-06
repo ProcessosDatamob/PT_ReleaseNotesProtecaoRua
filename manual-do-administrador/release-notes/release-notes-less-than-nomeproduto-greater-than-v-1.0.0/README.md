@@ -9,3 +9,4 @@
 2. [Visibilidade e Navegação na Tela Home iOS](Visibilidade-E-Navegação-Na-Tela-Home-Ios.md)
 3. [Escolha de Local Seguro no Mapa](Escolha-De-Local-Seguro-No-Mapa.md)
 4. [Gerenciamento de Locais Seguros no App Proteção Rua](Gerenciamento-De-Locais-Seguros-No-App-Proteção-Rua.md)
+5. [Integração do Google Maps no Aplicativo Proteção Rua](Integração-Do-Google-Maps-No-Aplicativo-Proteção-Rua.md)
