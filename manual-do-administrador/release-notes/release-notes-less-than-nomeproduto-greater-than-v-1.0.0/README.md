@@ -16,3 +16,4 @@
 9. [Autenticação via OAuth no App Proteção Rua](Autenticação-Via-Oauth-No-App-Proteção-Rua.md)
 10. [Configuração da Redirect URI para OAuth](Configuração-Da-Redirect-Uri-Para-Oauth.md)
 11. [Tela de Splash Screen no App](Tela-De-Splash-Screen-No-App.md)
+12. [Personalização de Aplicativos no Modo Rua](Personalização-De-Aplicativos-No-Modo-Rua.md)
