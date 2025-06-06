@@ -12,3 +12,4 @@
 5. [Notificação de Configurações Incompletas no App Proteção Rua](Notificação-De-Configurações-Incompletas-No-App-Proteção-Rua.md)
 6. [Notificação de Configurações Pendentes no Primeiro Login](Notificação-De-Configurações-Pendentes-No-Primeiro-Login.md)
 7. [Notificação de Permissões Faltantes no App](Notificação-De-Permissões-Faltantes-No-App.md)
+8. [Uso de Biometria do App VIVO no Proteção Rua](Uso-De-Biometria-Do-App-Vivo-No-Proteção-Rua.md)
