@@ -25,3 +25,4 @@
 18. [Acessibilidade na Tela de Senha de Emergência](Acessibilidade-Na-Tela-De-Senha-De-Emergência.md)
 19. [Acessibilidade na Tela de Senha de Emergência](Acessibilidade-Na-Tela-De-Senha-De-Emergência.md)
 20. [Acessibilidade na Tela de Cadastro de Senha](Acessibilidade-Na-Tela-De-Cadastro-De-Senha.md)
+21. [Acessibilidade na Tela de Cadastro de Senha Principal](Acessibilidade-Na-Tela-De-Cadastro-De-Senha-Principal.md)
