@@ -12,3 +12,4 @@
 5. [Acessibilidade para Permissões Pendentes](Acessibilidade-Para-Permissões-Pendentes.md)
 6. [Acessibilidade na Edição de Contato de Confiança](Acessibilidade-Na-Edição-De-Contato-De-Confiança.md)
 7. [Acessibilidade da Tela de Contato de Confiança](Acessibilidade-Da-Tela-De-Contato-De-Confiança.md)
+8. [Tela de Feedback para Alteração de Senha](Tela-De-Feedback-Para-Alteração-De-Senha.md)
