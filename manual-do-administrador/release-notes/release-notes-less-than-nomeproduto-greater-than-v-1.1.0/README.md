@@ -10,3 +10,7 @@
 3. [Atualização de Mensagem na Tela Home](Atualização-De-Mensagem-Na-Tela-Home.md)
 4. [Adicionar Novos Locais](Adicionar-Novos-Locais.md)
 5. [Ocultar Opções Após Negar Permissão de Localização](Ocultar-Opções-Após-Negar-Permissão-De-Localização.md)
+
+### **Novidades**
+
+1. [Bloquear e Desbloquear Apps Automaticamente](Bloquear-E-Desbloquear-Apps-Automaticamente.md)
