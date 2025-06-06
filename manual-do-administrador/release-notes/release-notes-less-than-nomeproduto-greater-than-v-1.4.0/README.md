@@ -33,3 +33,4 @@
 26. [Acessibilidade na Tela de Troca de Dispositivo](Acessibilidade-Na-Tela-De-Troca-De-Dispositivo.md)
 27. [Acessibilidade na Tela "Limite de Locais Seguros Atingido" no App Proteção Rua](Acessibilidade-Na-Tela-"Limite-De-Locais-Seguros-Atingido"-No-App-Proteção-Rua.md)
 28. [Acessibilidade na Tela "Gerenciar os Locais Seguros"](Acessibilidade-Na-Tela-"Gerenciar-Os-Locais-Seguros".md)
+29. [Acessibilidade na Tela de Busca de Endereço do App Proteção Rua](Acessibilidade-Na-Tela-De-Busca-De-Endereço-Do-App-Proteção-Rua.md)
