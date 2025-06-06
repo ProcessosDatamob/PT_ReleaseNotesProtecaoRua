@@ -67,6 +67,7 @@
     * [Exibição De Locais Na Página Inicial Sem Endereço Cadastrado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Exibição-De-Locais-Na-Página-Inicial-Sem-Endereço-Cadastrado.md)
     * [Seleção De Aplicativos No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Seleção-De-Aplicativos-No-App-Proteção-Rua.md)
     * [Ajuste De Texto Para Cadastro De Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Ajuste-De-Texto-Para-Cadastro-De-Local-Seguro.md)
+    * [Cadastro De Local Seguro No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Cadastro-De-Local-Seguro-No-App.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Atualização Da Tela Home No Ios](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Atualização-Da-Tela-Home-No-Ios.md)
     * [Visibilidade E Navegação Na Tela Home Ios](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidade-E-Navegação-Na-Tela-Home-Ios.md)
