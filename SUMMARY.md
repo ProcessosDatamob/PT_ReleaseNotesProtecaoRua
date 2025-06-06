@@ -63,6 +63,7 @@
     * [Visualização De Locais Seguros No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Visualização-De-Locais-Seguros-No-App.md)
     * [Confirmação De Configuração Completa No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Confirmação-De-Configuração-Completa-No-App-Proteção-Rua.md)
     * [Exibição De Locais Na Página Inicial Sem Endereço Cadastrado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Exibição-De-Locais-Na-Página-Inicial-Sem-Endereço-Cadastrado.md)
+    * [Seleção De Aplicativos No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Seleção-De-Aplicativos-No-App-Proteção-Rua.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Atualização Da Tela Home No Ios](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Atualização-Da-Tela-Home-No-Ios.md)
     * [Visibilidade E Navegação Na Tela Home Ios](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidade-E-Navegação-Na-Tela-Home-Ios.md)
