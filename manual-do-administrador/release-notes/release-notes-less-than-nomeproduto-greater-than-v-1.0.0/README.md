@@ -28,3 +28,4 @@
 21. [Restrição de Acesso a Apps no Modo Rua](Restrição-De-Acesso-A-Apps-No-Modo-Rua.md)
 22. [Selecionar Nome para Local Seguro no App Modo Rua](Selecionar-Nome-Para-Local-Seguro-No-App-Modo-Rua.md)
 23. [Definir Área de Abrangência de Local Seguro no Modo Rua](Definir-Área-De-Abrangência-De-Local-Seguro-No-Modo-Rua.md)
+24. [Adicionar Local Seguro no App Modo Rua](Adicionar-Local-Seguro-No-App-Modo-Rua.md)
