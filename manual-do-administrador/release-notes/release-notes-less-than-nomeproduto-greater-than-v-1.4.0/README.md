@@ -19,3 +19,4 @@
 12. [Acessibilidade Melhorada na Tela de Perfil](Acessibilidade-Melhorada-Na-Tela-De-Perfil.md)
 13. [Acessibilidade da Tela de Feedback](Acessibilidade-Da-Tela-De-Feedback.md)
 14. [Acessibilidade na Tela de Contato de Confiança](Acessibilidade-Na-Tela-De-Contato-De-Confiança.md)
+15. [Acessibilidade na Edição de Contatos de Confiança](Acessibilidade-Na-Edição-De-Contatos-De-Confiança.md)
