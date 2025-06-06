@@ -28,3 +28,4 @@
 13. [Cadastro de Local Seguro no App](Cadastro-De-Local-Seguro-No-App.md)
 14. [Cadastro de Senha Principal via Card de Incentivo](Cadastro-De-Senha-Principal-Via-Card-De-Incentivo.md)
 15. [Permissão de Notificações no App Proteção Rua](Permissão-De-Notificações-No-App-Proteção-Rua.md)
+16. [Permissão de Localização no App Proteção Rua](Permissão-De-Localização-No-App-Proteção-Rua.md)
