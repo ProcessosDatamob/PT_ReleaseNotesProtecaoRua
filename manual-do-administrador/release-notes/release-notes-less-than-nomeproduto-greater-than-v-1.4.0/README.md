@@ -30,3 +30,4 @@
 23. [Acessibilidade na Tela de Permissões](Acessibilidade-Na-Tela-De-Permissões.md)
 24. [Acessibilidade na Ativação de Localização do Proteção Rua](Acessibilidade-Na-Ativação-De-Localização-Do-Proteção-Rua.md)
 25. [Acessibilidade na Tela de Erro de Sincronização](Acessibilidade-Na-Tela-De-Erro-De-Sincronização.md)
+26. [Acessibilidade na Tela de Troca de Dispositivo](Acessibilidade-Na-Tela-De-Troca-De-Dispositivo.md)
