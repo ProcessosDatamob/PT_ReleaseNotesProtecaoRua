@@ -2,3 +2,7 @@
 
 ## **Versão 1.4.0 - 06/2025**
 
+
+### **Novidades**
+
+1. [Acesso Facilitado às Notificações](Acesso-Facilitado-Às-Notificações.md)
