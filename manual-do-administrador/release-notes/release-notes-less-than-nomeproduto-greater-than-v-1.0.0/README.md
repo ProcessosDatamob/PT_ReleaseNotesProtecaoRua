@@ -26,3 +26,4 @@
 19. [Tela de Desbloqueio com Validação de Senha](Tela-De-Desbloqueio-Com-Validação-De-Senha.md)
 20. [Seleção Detalhada de Apps no Modo Rua](Seleção-Detalhada-De-Apps-No-Modo-Rua.md)
 21. [Restrição de Acesso a Apps no Modo Rua](Restrição-De-Acesso-A-Apps-No-Modo-Rua.md)
+22. [Selecionar Nome para Local Seguro no App Modo Rua](Selecionar-Nome-Para-Local-Seguro-No-App-Modo-Rua.md)
