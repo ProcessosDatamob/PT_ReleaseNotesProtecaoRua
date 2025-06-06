@@ -76,3 +76,4 @@
     * [Configuração De Segurança De Emergência No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuração-De-Segurança-De-Emergência-No-App.md)
     * [Gerenciamento De Locais Seguros E Bloqueio De Apps No Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gerenciamento-De-Locais-Seguros-E-Bloqueio-De-Apps-No-Modo-Rua.md)
     * [Tela De Desbloqueio Com Validação De Senha](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-De-Desbloqueio-Com-Validação-De-Senha.md)
+    * [Seleção Detalhada De Apps No Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Seleção-Detalhada-De-Apps-No-Modo-Rua.md)
