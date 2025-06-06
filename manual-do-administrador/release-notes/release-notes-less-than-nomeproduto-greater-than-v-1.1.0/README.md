@@ -26,3 +26,4 @@
 11. [Seleção de Aplicativos no App Proteção Rua](Seleção-De-Aplicativos-No-App-Proteção-Rua.md)
 12. [Ajuste de Texto para Cadastro de Local Seguro](Ajuste-De-Texto-Para-Cadastro-De-Local-Seguro.md)
 13. [Cadastro de Local Seguro no App](Cadastro-De-Local-Seguro-No-App.md)
+14. [Cadastro de Senha Principal via Card de Incentivo](Cadastro-De-Senha-Principal-Via-Card-De-Incentivo.md)
