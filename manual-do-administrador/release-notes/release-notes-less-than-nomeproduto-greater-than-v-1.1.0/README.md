@@ -31,3 +31,4 @@
 16. [Permissão de Localização no App Proteção Rua](Permissão-De-Localização-No-App-Proteção-Rua.md)
 17. [Concessão de Permissão de Tempo de Uso no App Proteção Rua](Concessão-De-Permissão-De-Tempo-De-Uso-No-App-Proteção-Rua.md)
 18. [Renovação Automática de Token de Acesso](Renovação-Automática-De-Token-De-Acesso.md)
+19. [Criação e Edição de Locais Seguros no Mapa](Criação-E-Edição-De-Locais-Seguros-No-Mapa.md)
