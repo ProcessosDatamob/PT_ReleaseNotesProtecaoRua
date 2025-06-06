@@ -6,3 +6,4 @@
 ### **Novidades**
 
 1. [Atualização da Tela Home no iOS](Atualização-Da-Tela-Home-No-Ios.md)
+2. [Visibilidade e Navegação na Tela Home iOS](Visibilidade-E-Navegação-Na-Tela-Home-Ios.md)
