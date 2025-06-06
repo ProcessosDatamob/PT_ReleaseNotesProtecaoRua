@@ -36,3 +36,4 @@
 29. [Permissão de Notificações para Modo Rua](Permissão-De-Notificações-Para-Modo-Rua.md)
 30. [Permissão de Tempo de Uso para Modo Rua](Permissão-De-Tempo-De-Uso-Para-Modo-Rua.md)
 31. [Gerenciamento de Permissão de Localização no App Modo Rua](Gerenciamento-De-Permissão-De-Localização-No-App-Modo-Rua.md)
+32. [Configuração de Permissões no Modo Rua](Configuração-De-Permissões-No-Modo-Rua.md)
