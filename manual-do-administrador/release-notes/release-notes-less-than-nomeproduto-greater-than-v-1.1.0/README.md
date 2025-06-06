@@ -19,3 +19,4 @@
 4. [Criação e Gerenciamento de Senhas no Perfil](Criação-E-Gerenciamento-De-Senhas-No-Perfil.md)
 5. [Cadastro de Contato de Confiança](Cadastro-De-Contato-De-Confiança.md)
 6. [Cadastro de Contato de Confiança](Cadastro-De-Contato-De-Confiança.md)
+7. [Cadastro de Senha de Emergência no App Proteção Rua](Cadastro-De-Senha-De-Emergência-No-App-Proteção-Rua.md)
