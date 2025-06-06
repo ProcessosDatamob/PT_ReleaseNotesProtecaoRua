@@ -28,6 +28,7 @@
     * [Uso De Biometria Do App Vivo No Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Uso-De-Biometria-Do-App-Vivo-No-Proteção-Rua.md)
     * [Navegação Após Bloqueio De Senha No Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Navegação-Após-Bloqueio-De-Senha-No-Proteção-Rua.md)
     * [Gerenciamento De Tentativas De Senha No Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Gerenciamento-De-Tentativas-De-Senha-No-Proteção-Rua.md)
+    * [Redefinição De Senha Com Biometria](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Redefinição-De-Senha-Com-Biometria.md)
   * [Release Notes \<NomeProduto> V 1.2.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Navegação Rápida Entre Abas Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Navegação-Rápida-Entre-Abas-Na-Home.md)
     * [Comportamento Do Switch Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Comportamento-Do-Switch-Na-Home.md)
