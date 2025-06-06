@@ -17,6 +17,8 @@
     * [Configurações e Recuperação de Senha](descritivo-tecnico-da-solucao-protecao-rua-android/ios/configuracoes-e-recuperacao-de-senha.md)
     * [Requisitos](descritivo-tecnico-da-solucao-protecao-rua-android/ios/requisitos.md)
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 1.2.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
+    * [Navegação Rápida Entre Abas Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Navegação-Rápida-Entre-Abas-Na-Home.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botão Switch Master Inativo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botão-Switch-Master-Inativo.md)
     * [Bloqueio De Apps Fora Do Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueio-De-Apps-Fora-Do-Local-Seguro.md)
