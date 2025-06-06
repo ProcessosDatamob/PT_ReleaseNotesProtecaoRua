@@ -20,3 +20,4 @@
 6. [Atualizar Contato de Confiança no Aplicativo Proteção Rua](Atualizar-Contato-De-Confiança-No-Aplicativo-Proteção-Rua.md)
 7. [Gerenciamento de Senhas pelo Perfil](Gerenciamento-De-Senhas-Pelo-Perfil.md)
 8. [Notificação de Permissões Pendentes no App](Notificação-De-Permissões-Pendentes-No-App.md)
+9. [Acesso Inicial à Tela Home com Permissões Concedidas](Acesso-Inicial-À-Tela-Home-Com-Permissões-Concedidas.md)
