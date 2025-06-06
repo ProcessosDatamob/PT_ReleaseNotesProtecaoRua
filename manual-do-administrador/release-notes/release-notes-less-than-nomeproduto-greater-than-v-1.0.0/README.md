@@ -22,3 +22,4 @@
 15. [Tela de Bloqueio para Aplicativos Restritos](Tela-De-Bloqueio-Para-Aplicativos-Restritos.md)
 16. [Configuração de Senha e Contato de Emergência no App](Configuração-De-Senha-E-Contato-De-Emergência-No-App.md)
 17. [Configuração de Segurança de Emergência no App](Configuração-De-Segurança-De-Emergência-No-App.md)
+18. [Gerenciamento de Locais Seguros e Bloqueio de Apps no Modo Rua](Gerenciamento-De-Locais-Seguros-E-Bloqueio-De-Apps-No-Modo-Rua.md)
