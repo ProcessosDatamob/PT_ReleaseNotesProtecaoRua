@@ -30,6 +30,7 @@
     * [Gerenciamento De Tentativas De Senha No Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Gerenciamento-De-Tentativas-De-Senha-No-Proteção-Rua.md)
     * [Redefinição De Senha Com Biometria](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Redefinição-De-Senha-Com-Biometria.md)
     * [Acesso Às Perguntas Frequentes No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Acesso-Às-Perguntas-Frequentes-No-App-Proteção-Rua.md)
+    * [Tela De Notificações Do App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Tela-De-Notificações-Do-App-Proteção-Rua.md)
   * [Release Notes \<NomeProduto> V 1.2.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Navegação Rápida Entre Abas Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Navegação-Rápida-Entre-Abas-Na-Home.md)
     * [Comportamento Do Switch Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Comportamento-Do-Switch-Na-Home.md)
