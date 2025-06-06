@@ -15,3 +15,4 @@
 1. [Gerenciamento do Status da Licença no App](Gerenciamento-Do-Status-Da-Licença-No-App.md)
 2. [Gerenciar Contatos de Confiança no Aplicativo](Gerenciar-Contatos-De-Confiança-No-Aplicativo.md)
 3. [Gestão Segura de Configurações no App "Proteção Rua"](Gestão-Segura-De-Configurações-No-App-"Proteção-Rua".md)
+4. [Alterar Senha Principal no App Proteção Rua](Alterar-Senha-Principal-No-App-Proteção-Rua.md)
