@@ -25,3 +25,4 @@
 10. [Exibição de Locais na Página Inicial sem Endereço Cadastrado](Exibição-De-Locais-Na-Página-Inicial-Sem-Endereço-Cadastrado.md)
 11. [Seleção de Aplicativos no App Proteção Rua](Seleção-De-Aplicativos-No-App-Proteção-Rua.md)
 12. [Ajuste de Texto para Cadastro de Local Seguro](Ajuste-De-Texto-Para-Cadastro-De-Local-Seguro.md)
+13. [Cadastro de Local Seguro no App](Cadastro-De-Local-Seguro-No-App.md)
