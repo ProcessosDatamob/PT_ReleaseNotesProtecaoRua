@@ -9,3 +9,4 @@
 2. [Acessibilidade da Tela Geral de Erro](Acessibilidade-Da-Tela-Geral-De-Erro.md)
 3. [Notificações Acessíveis na Página de Conteúdo](Notificações-Acessíveis-Na-Página-De-Conteúdo.md)
 4. [Acesso Fácil à FAQ no Portal](Acesso-Fácil-À-Faq-No-Portal.md)
+5. [Acessibilidade para Permissões Pendentes](Acessibilidade-Para-Permissões-Pendentes.md)
