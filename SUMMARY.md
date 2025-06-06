@@ -30,6 +30,7 @@
     * [Ativação Com Token Oauth No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Ativação-Com-Token-Oauth-No-App-Proteção-Rua.md)
     * [Autenticação Via Oauth No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Autenticação-Via-Oauth-No-App-Proteção-Rua.md)
     * [Configuração Da Redirect Uri Para Oauth](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuração-Da-Redirect-Uri-Para-Oauth.md)
+    * [Tela De Splash Screen No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-De-Splash-Screen-No-App.md)
 
 ## RELEASE NOTES
 
