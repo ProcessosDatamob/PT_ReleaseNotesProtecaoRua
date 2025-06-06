@@ -13,3 +13,4 @@
 6. [Notificação de Configurações Pendentes no Primeiro Login](Notificação-De-Configurações-Pendentes-No-Primeiro-Login.md)
 7. [Notificação de Permissões Faltantes no App](Notificação-De-Permissões-Faltantes-No-App.md)
 8. [Uso de Biometria do App VIVO no Proteção Rua](Uso-De-Biometria-Do-App-Vivo-No-Proteção-Rua.md)
+9. [Navegação Após Bloqueio de Senha no Proteção Rua](Navegação-Após-Bloqueio-De-Senha-No-Proteção-Rua.md)
