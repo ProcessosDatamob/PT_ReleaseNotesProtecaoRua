@@ -1,0 +1,5 @@
+# Notificação de Configurações Incompletas no App Proteção Rua
+
+**ID: US-BTC-528**
+
+O aplicativo Proteção Rua avisa os usuários sobre configurações que ainda precisam ser concluídas quando eles fazem login pela primeira vez ou após mudanças no cadastro. Essa funcionalidade garante que todas as etapas sejam finalizadas para que o app funcione corretamente e de forma segura. Se o app não conseguir enviar as notificações para o servidor, ele tentará de novo até três vezes, aumentando o tempo de espera entre as tentativas. Assim que as configurações forem completadas, a notificação desaparece, garantindo que o usuário veja apenas informações que são realmente importantes.
