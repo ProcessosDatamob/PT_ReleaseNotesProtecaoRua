@@ -15,3 +15,4 @@
 8. [Uso de Biometria do App VIVO no Proteção Rua](Uso-De-Biometria-Do-App-Vivo-No-Proteção-Rua.md)
 9. [Navegação Após Bloqueio de Senha no Proteção Rua](Navegação-Após-Bloqueio-De-Senha-No-Proteção-Rua.md)
 10. [Gerenciamento de Tentativas de Senha no Proteção Rua](Gerenciamento-De-Tentativas-De-Senha-No-Proteção-Rua.md)
+11. [Redefinição de Senha com Biometria](Redefinição-De-Senha-Com-Biometria.md)
