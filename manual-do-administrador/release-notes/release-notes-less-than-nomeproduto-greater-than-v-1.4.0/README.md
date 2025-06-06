@@ -35,3 +35,4 @@
 28. [Acessibilidade na Tela "Gerenciar os Locais Seguros"](Acessibilidade-Na-Tela-"Gerenciar-Os-Locais-Seguros".md)
 29. [Acessibilidade na Tela de Busca de Endereço do App Proteção Rua](Acessibilidade-Na-Tela-De-Busca-De-Endereço-Do-App-Proteção-Rua.md)
 30. [Acessibilidade no Modal de Exclusão de Local Seguro do App Proteção Rua](Acessibilidade-No-Modal-De-Exclusão-De-Local-Seguro-Do-App-Proteção-Rua.md)
+31. [Acessibilidade no Modal de Opções de Local Seguro do App Proteção Rua](Acessibilidade-No-Modal-De-Opções-De-Local-Seguro-Do-App-Proteção-Rua.md)
