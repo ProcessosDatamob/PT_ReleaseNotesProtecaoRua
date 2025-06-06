@@ -9,3 +9,7 @@
 2. [Comportamento do Switch na Home](Comportamento-Do-Switch-Na-Home.md)
 3. [Indicação de Local Seguro no Portal](Indicação-De-Local-Seguro-No-Portal.md)
 4. [Configuração de Proteções na Home](Configuração-De-Proteções-Na-Home.md)
+
+### **Novidades**
+
+1. [Gerenciamento do Status da Licença no App](Gerenciamento-Do-Status-Da-Licença-No-App.md)
