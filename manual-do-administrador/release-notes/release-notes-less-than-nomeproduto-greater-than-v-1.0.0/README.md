@@ -38,3 +38,4 @@
 31. [Gerenciamento de Permissão de Localização no App Modo Rua](Gerenciamento-De-Permissão-De-Localização-No-App-Modo-Rua.md)
 32. [Configuração de Permissões no Modo Rua](Configuração-De-Permissões-No-Modo-Rua.md)
 33. [Cadastro de Senha Numérica no Modo Rua](Cadastro-De-Senha-Numérica-No-Modo-Rua.md)
+34. [Sincronização do Token Firebase no App](Sincronização-Do-Token-Firebase-No-App.md)
