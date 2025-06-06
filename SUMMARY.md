@@ -24,6 +24,7 @@
     * [Gerenciamento De Locais Seguros No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gerenciamento-De-Locais-Seguros-No-App-Proteção-Rua.md)
     * [Integração Do Google Maps No Aplicativo Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Integração-Do-Google-Maps-No-Aplicativo-Proteção-Rua.md)
     * [Integração De Notificações Push Com Firebase](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Integração-De-Notificações-Push-Com-Firebase.md)
+    * [Autenticação Oauth Vivo No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Autenticação-Oauth-Vivo-No-App-Proteção-Rua.md)
 
 ## RELEASE NOTES
 
