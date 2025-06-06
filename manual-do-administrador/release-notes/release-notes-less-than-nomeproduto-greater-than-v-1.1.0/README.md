@@ -22,3 +22,4 @@
 7. [Cadastro de Senha de Emergência no App Proteção Rua](Cadastro-De-Senha-De-Emergência-No-App-Proteção-Rua.md)
 8. [Visualização de Locais Seguros no App](Visualização-De-Locais-Seguros-No-App.md)
 9. [Confirmação de Configuração Completa no App Proteção Rua](Confirmação-De-Configuração-Completa-No-App-Proteção-Rua.md)
+10. [Exibição de Locais na Página Inicial sem Endereço Cadastrado](Exibição-De-Locais-Na-Página-Inicial-Sem-Endereço-Cadastrado.md)
