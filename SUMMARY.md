@@ -38,7 +38,7 @@
     * [Configuração De Proteções Na Home](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Configuração-De-Proteções-Na-Home.md)
     * [Gerenciamento Do Status Da Licença No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gerenciamento-Do-Status-Da-Licença-No-App.md)
     * [Gerenciar Contatos De Confiança No Aplicativo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gerenciar-Contatos-De-Confiança-No-Aplicativo.md)
-    * [Gestão Segura De Configurações No App "Proteção Rua"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gestão-Segura-De-Configurações-No-App-"Proteção-Rua".md)
+    * [Gestão Segura De Configurações No App "Proteção Rua"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gestão-Segura-De-Configurações-No-App-Proteção-Rua.md)
     * [Alterar Senha Principal No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Alterar-Senha-Principal-No-App-Proteção-Rua.md)
     * [Alterar Senha De Emergência No App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Alterar-Senha-De-Emergência-No-App-Proteção-Rua.md)
     * [Atualizar Contato De Confiança No Aplicativo Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Atualizar-Contato-De-Confiança-No-Aplicativo-Proteção-Rua.md)
@@ -53,7 +53,7 @@
     * [Adicionar Novos Locais](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Adicionar-Novos-Locais.md)
     * [Ocultar Opções Após Negar Permissão De Localização](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Ocultar-Opções-Após-Negar-Permissão-De-Localização.md)
     * [Bloquear E Desbloquear Apps Automaticamente](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloquear-E-Desbloquear-Apps-Automaticamente.md)
-    * [Validação De Senha No Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Validação-De-Senha-No-Proteção-Rua.md)
+    * [Validação De Senha No Proteção Rua](release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/validacao-de-senha-no-protecao-rua.md)
     * [Configurar Raio De Proteção](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Configurar-Raio-De-Proteção.md)
     * [Criação E Gerenciamento De Senhas No Perfil](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Criação-E-Gerenciamento-De-Senhas-No-Perfil.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
@@ -73,7 +73,3 @@
     * [Acesso E Gerenciamento De Locais Seguros No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Acesso-E-Gerenciamento-De-Locais-Seguros-No-App.md)
     * [Tela De Bloqueio Para Aplicativos Restritos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-De-Bloqueio-Para-Aplicativos-Restritos.md)
     * [Configuração De Senha E Contato De Emergência No App](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuração-De-Senha-E-Contato-De-Emergência-No-App.md)
-
-## RELEASE NOTES
-
-* [Release Notes Proteção Rua](release-notes/release-notes-protecao-rua.md)
