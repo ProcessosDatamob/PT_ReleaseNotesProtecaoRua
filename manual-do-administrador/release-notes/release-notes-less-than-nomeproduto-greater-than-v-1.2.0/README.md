@@ -13,3 +13,4 @@
 ### **Novidades**
 
 1. [Gerenciamento do Status da Licença no App](Gerenciamento-Do-Status-Da-Licença-No-App.md)
+2. [Gerenciar Contatos de Confiança no Aplicativo](Gerenciar-Contatos-De-Confiança-No-Aplicativo.md)
