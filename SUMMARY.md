@@ -17,6 +17,8 @@
     * [Configurações e Recuperação de Senha](descritivo-tecnico-da-solucao-protecao-rua-android/ios/configuracoes-e-recuperacao-de-senha.md)
     * [Requisitos](descritivo-tecnico-da-solucao-protecao-rua-android/ios/requisitos.md)
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 1.4.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/README.md)
+    * [Acesso Facilitado Às Notificações](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acesso-Facilitado-Às-Notificações.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
