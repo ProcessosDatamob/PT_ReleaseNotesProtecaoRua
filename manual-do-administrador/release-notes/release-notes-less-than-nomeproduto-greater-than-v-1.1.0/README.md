@@ -15,3 +15,4 @@
 
 1. [Bloquear e Desbloquear Apps Automaticamente](Bloquear-E-Desbloquear-Apps-Automaticamente.md)
 2. [Validação de Senha no Proteção Rua](Validação-De-Senha-No-Proteção-Rua.md)
+3. [Configurar Raio de Proteção](Configurar-Raio-De-Proteção.md)
