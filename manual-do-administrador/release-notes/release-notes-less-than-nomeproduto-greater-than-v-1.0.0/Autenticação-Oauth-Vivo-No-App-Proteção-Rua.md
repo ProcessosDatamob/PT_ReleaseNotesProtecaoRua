@@ -1,0 +1,5 @@
+# Autenticação OAuth Vivo no app Proteção Rua
+
+**ID: US-BTC-58**
+
+No aplicativo Proteção Rua, você pode fazer login usando a opção OAuth Vivo, que permite acessar informações da sua linha telefônica. Ao escolher esta opção, você será levado a uma tela para autenticar. Se você autorizar o acesso, retornará ao aplicativo com um código que valida essa autorização. Se decidir não prosseguir, você voltará à tela anterior sem que suas informações sejam compartilhadas. Caso ocorra algum problema durante o processo de redirecionamento ou na troca do código de autenticação, o aplicativo mostrará uma mensagem de erro e sugerirá que você tente novamente.
