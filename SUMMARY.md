@@ -40,6 +40,7 @@
     * [Acessibilidade Da Tela De Sincronização Para Deficientes Visuais](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Da-Tela-De-Sincronização-Para-Deficientes-Visuais.md)
     * [Acessibilidade Na Tela De Permissões](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Permissões.md)
     * [Acessibilidade Na Ativação De Localização Do Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Ativação-De-Localização-Do-Proteção-Rua.md)
+    * [Acessibilidade Na Tela De Erro De Sincronização](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Erro-De-Sincronização.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
