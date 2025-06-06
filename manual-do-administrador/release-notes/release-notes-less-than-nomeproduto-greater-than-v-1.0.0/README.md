@@ -19,3 +19,4 @@
 12. [Personalização de Aplicativos no Modo Rua](Personalização-De-Aplicativos-No-Modo-Rua.md)
 13. [Tela de Acesso Inicial no Modo Rua](Tela-De-Acesso-Inicial-No-Modo-Rua.md)
 14. [Acesso e Gerenciamento de Locais Seguros no App](Acesso-E-Gerenciamento-De-Locais-Seguros-No-App.md)
+15. [Tela de Bloqueio para Aplicativos Restritos](Tela-De-Bloqueio-Para-Aplicativos-Restritos.md)
