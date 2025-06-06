@@ -20,3 +20,4 @@
 5. [Cadastro de Contato de Confiança](Cadastro-De-Contato-De-Confiança.md)
 6. [Cadastro de Contato de Confiança](Cadastro-De-Contato-De-Confiança.md)
 7. [Cadastro de Senha de Emergência no App Proteção Rua](Cadastro-De-Senha-De-Emergência-No-App-Proteção-Rua.md)
+8. [Visualização de Locais Seguros no App](Visualização-De-Locais-Seguros-No-App.md)
