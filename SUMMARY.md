@@ -85,3 +85,4 @@
     * [Selecionar Nome Para Local Seguro No App Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Selecionar-Nome-Para-Local-Seguro-No-App-Modo-Rua.md)
     * [Definir Área De Abrangência De Local Seguro No Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Definir-Área-De-Abrangência-De-Local-Seguro-No-Modo-Rua.md)
     * [Adicionar Local Seguro No App Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Adicionar-Local-Seguro-No-App-Modo-Rua.md)
+    * [Remoção Da Tela Inicial De Onboarding Do Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Remoção-Da-Tela-Inicial-De-Onboarding-Do-Modo-Rua.md)
