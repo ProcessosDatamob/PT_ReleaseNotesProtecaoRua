@@ -87,3 +87,4 @@
     * [Adicionar Local Seguro No App Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Adicionar-Local-Seguro-No-App-Modo-Rua.md)
     * [Remoção Da Tela Inicial De Onboarding Do Modo Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Remoção-Da-Tela-Inicial-De-Onboarding-Do-Modo-Rua.md)
     * [Tela Inicial Do Modo Rua Em Local Não Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-Inicial-Do-Modo-Rua-Em-Local-Não-Seguro.md)
+    * [Tela Inicial Do Modo Rua Em Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Tela-Inicial-Do-Modo-Rua-Em-Local-Seguro.md)
