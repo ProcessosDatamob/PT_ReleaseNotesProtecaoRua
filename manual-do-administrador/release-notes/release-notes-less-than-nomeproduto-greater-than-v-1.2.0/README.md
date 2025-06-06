@@ -18,3 +18,4 @@
 4. [Alterar Senha Principal no App Proteção Rua](Alterar-Senha-Principal-No-App-Proteção-Rua.md)
 5. [Alterar Senha de Emergência no App Proteção Rua](Alterar-Senha-De-Emergência-No-App-Proteção-Rua.md)
 6. [Atualizar Contato de Confiança no Aplicativo Proteção Rua](Atualizar-Contato-De-Confiança-No-Aplicativo-Proteção-Rua.md)
+7. [Gerenciamento de Senhas pelo Perfil](Gerenciamento-De-Senhas-Pelo-Perfil.md)
