@@ -1,5 +1,3 @@
-# Gerenciamento de Locais Seguros no App Proteção Rua
-
-**ID: US-BTC-87**
+# Gerenciamento De Locais Seguros No App Proteção Rua
 
 No aplicativo Proteção Rua, você pode facilmente adicionar, editar e remover locais seguros para definir suas áreas de proteção. Na tela "Locais", é possível ajustar o endereço de um local seguro usando o mapa, mudar o nome dos locais ou removê-los, sendo sempre necessário confirmar a exclusão. Você pode adicionar até 20 locais seguros; quando atinge esse número, o botão para adicionar novos locais desaparece. Se excluir um local, o botão reaparece, permitindo que novos locais sejam adicionados. Essa funcionalidade oferece a você mais controle sobre as áreas de segurança dentro do app.

@@ -1,5 +1,3 @@
-# Configuração de Senha e Contato de Emergência no App
-
-**ID: US-BTC-129**
+# Configuração De Senha E Contato De Emergência No App
 
 Como usuário do aplicativo, você tem a possibilidade de configurar uma senha especial e designar um contato de emergência para aumentar sua segurança em situações de risco. Para fazer isso, vá até a tela de Senhas e Acessos e escolha a opção "Criar senha de emergência". Nesta seção, você poderá adicionar o número de telefone de uma pessoa de confiança e criar uma senha de emergência composta por 6 dígitos, que não devem ser números em sequência. Quando esta senha for utilizada, seu contato receberá automaticamente uma mensagem SMS, alertando-o sobre a situação. Após inserir o número do telefone e criar a senha, finalize o procedimento para garantir que seu contato esteja preparado para ser notificado em caso de emergência.

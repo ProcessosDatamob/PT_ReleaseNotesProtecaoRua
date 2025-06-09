@@ -1,5 +1,3 @@
-# Restrição de Acesso a Apps no Modo Rua
+# Restrição De Acesso A Apps No Proteção Rua
 
-**ID: US-BTC-121**
-
-No aplicativo Modo Rua, você pode escolher quais aplicativos terão o acesso bloqueado quando estiver fora de locais considerados seguros. Isso ajuda a proteger sua privacidade e manter seus dados seguros. Primeiro, você define quais são esses locais seguros e, em seguida, seleciona os aplicativos que deseja proteger. Se preferir, você pode continuar com outras configurações ou adiar essa escolha e voltar à tela inicial, onde será incentivado a finalizar o processo. A interface se ajusta automaticamente a diferentes dispositivos, garantindo que você tenha sempre a mesma experiência fácil de usar.
+No aplicativo Proteção Rua, você pode escolher quais aplicativos terão o acesso bloqueado quando estiver fora de locais considerados seguros. Isso ajuda a proteger sua privacidade e manter seus dados seguros. Primeiro, você define quais são esses locais seguros e, em seguida, seleciona os aplicativos que deseja proteger. Se preferir, você pode continuar com outras configurações ou adiar essa escolha e voltar à tela inicial, onde será incentivado a finalizar o processo. A interface se ajusta automaticamente a diferentes dispositivos, garantindo que você tenha sempre a mesma experiência fácil de usar.

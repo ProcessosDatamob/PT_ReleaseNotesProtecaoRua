@@ -1,5 +1,3 @@
-# Integração de Notificações Push com Firebase
-
-**ID: US-BTC-67**
+# Integração De Notificações Push Com Firebase
 
 No aplicativo Proteção Rua, utilizamos o Firebase para enviar e receber notificações push de forma prática e eficaz. Depois que o SDK é configurado, o app se conecta ao Firebase, registrando os dispositivos para que possam receber mensagens do sistema. As notificações aparecem para o usuário, independentemente de ele estar usando o aplicativo no momento ou não, e ao tocar na notificação, ele é levado diretamente para a tela relevante dentro do app. Além disso, registramos informações de funcionamento para identificar e corrigir possíveis problemas, garantindo que o aplicativo opere sem surpresas desagradáveis.
