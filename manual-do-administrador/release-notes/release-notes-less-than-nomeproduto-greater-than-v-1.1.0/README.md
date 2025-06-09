@@ -1,7 +1,6 @@
-# Release Notes less-than-nomeproduto-greater-than V 1.1.0
+# Release Notes Proteção Rua V 1.1.0
 
-## **Versão 1.1.0 - 06/2025**
-
+## **Versão 1.1.0**
 
 ### **Correções**
 
@@ -14,7 +13,7 @@
 ### **Novidades**
 
 1. [Bloquear e Desbloquear Apps Automaticamente](Bloquear-E-Desbloquear-Apps-Automaticamente.md)
-2. [Validação de Senha no Proteção Rua](Validação-De-Senha-No-Proteção-Rua.md)
+2. [Validação de Senha no Proteção Rua](Valida%C3%A7%C3%A3o-De-Senha-No-Prote%C3%A7%C3%A3o-Rua.md)
 3. [Configurar Raio de Proteção](Configurar-Raio-De-Proteção.md)
 4. [Criação e Gerenciamento de Senhas no Perfil](Criação-E-Gerenciamento-De-Senhas-No-Perfil.md)
 5. [Cadastro de Contato de Confiança](Cadastro-De-Contato-De-Confiança.md)

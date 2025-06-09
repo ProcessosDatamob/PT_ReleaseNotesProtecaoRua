@@ -1,5 +1,3 @@
-# Criação e Edição de Locais Seguros no Mapa
+# Criação E Edição De Locais Seguros No Mapa
 
-**ID: US-BTC-338**
-
-Descrição: No aplicativo Proteção Rua, os usuários podem facilmente adicionar e modificar locais seguros usando o mapa. Quando acessam a lista de locais e escolhem a opção de adicionar ou editar, o aplicativo exibe um mapa com um PIN fixo no centro. Os usuários podem ajustar o tamanho da área segura alterando o raio e podem mover o mapa ao redor enquanto o PIN permanece no centro. Também é possível usar gestos de pinça para ampliar ou reduzir o mapa, garantindo que seja possível definir a área segura com precisão. O mapa se ajusta automaticamente para manter a área segura sempre visível ao modificar o raio.
+No aplicativo Proteção Rua, os usuários podem facilmente adicionar e modificar locais seguros usando o mapa. Quando acessam a lista de locais e escolhem a opção de adicionar ou editar, o aplicativo exibe um mapa com um PIN fixo no centro. Os usuários podem ajustar o tamanho da área segura alterando o raio e podem mover o mapa ao redor enquanto o PIN permanece no centro. Também é possível usar gestos de pinça para ampliar ou reduzir o mapa, garantindo que seja possível definir a área segura com precisão. O mapa se ajusta automaticamente para manter a área segura sempre visível ao modificar o raio.

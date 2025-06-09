@@ -1,5 +1,3 @@
-# Concessão de Permissão de Tempo de Uso no App Proteção Rua  
+# Concessão De Permissão De Tempo De Uso No App Proteção Rua
 
-**ID: US-BTC-375**
-
-Descrição: No aplicativo Proteção Rua, quando você precisar permitir o acesso ao tempo de uso, uma tela aparecerá explicando por que essa permissão é importante. Depois de ler a explicação, você pode decidir se quer permitir ou não. Se você der a permissão, o aplicativo funcionará normalmente; se não, uma mensagem aparecerá dizendo por que a permissão é essencial e oferecendo a opção de tentar novamente ou deixar para depois. Se escolher "Continuar", você será levado às configurações do seu dispositivo para dar a permissão. Se escolher "Fazer Depois", o aplicativo continuará funcionando, mas sem essa permissão.
+No aplicativo Proteção Rua, quando você precisar permitir o acesso ao tempo de uso, uma tela aparecerá explicando por que essa permissão é importante. Depois de ler a explicação, você pode decidir se quer permitir ou não. Se você der a permissão, o aplicativo funcionará normalmente; se não, uma mensagem aparecerá dizendo por que a permissão é essencial e oferecendo a opção de tentar novamente ou deixar para depois. Se escolher "Continuar", você será levado às configurações do seu dispositivo para dar a permissão. Se escolher "Fazer Depois", o aplicativo continuará funcionando, mas sem essa permissão.

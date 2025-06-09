@@ -1,5 +1,3 @@
-# Bloqueio de Apps Fora do Local Seguro
+# Bloqueio De Apps Fora Do Local Seguro
 
-**ID da US:** **US-BTC-574**
-
-**Descrição:** No aplicativo, há um problema em que os aplicativos configurados para serem bloqueados fora de um local seguro não estão sendo bloqueados corretamente. Isso significa que, mesmo que você tenha configurado os aplicativos para serem restritos em locais não autorizados, eles ainda podem ser acessados nessas áreas. A funcionalidade deveria assegurar que, ao sair de um local seguro, os aplicativos designados sejam automaticamente bloqueados, impedindo seu uso em locais não autorizados. Essa falha afeta a capacidade de restringir o uso de aplicativos de acordo com a localização permitida.
+No aplicativo, há um problema em que os aplicativos configurados para serem bloqueados fora de um local seguro não estão sendo bloqueados corretamente. Isso significa que, mesmo que você tenha configurado os aplicativos para serem restritos em locais não autorizados, eles ainda podem ser acessados nessas áreas. A funcionalidade deveria assegurar que, ao sair de um local seguro, os aplicativos designados sejam automaticamente bloqueados, impedindo seu uso em locais não autorizados. Essa falha afeta a capacidade de restringir o uso de aplicativos de acordo com a localização permitida.
