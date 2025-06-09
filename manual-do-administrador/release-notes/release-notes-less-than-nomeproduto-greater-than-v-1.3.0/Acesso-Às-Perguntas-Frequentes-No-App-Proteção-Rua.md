@@ -1,5 +1,3 @@
-# Acesso às Perguntas Frequentes no App Proteção Rua
-
-**ID: US-BTC-158**
+# Acesso Às Perguntas Frequentes No App Proteção Rua
 
 No aplicativo Proteção Rua, você pode acessar a tela de Perguntas Frequentes (FAQ) ao clicar no ícone de interrogação ("?") disponível nas seções "Locais Seguros" ou "Apps". Ao fazer isso, você será levado a uma página que contém um título claro e uma barra de pesquisa para facilitar a busca por temas específicos. Abaixo da barra de pesquisa, há uma lista de perguntas com respostas detalhadas. Quando você clica em uma pergunta, a resposta correspondente é exibida, enquanto as outras perguntas ficam ocultas. Se desejar buscar por temas específicos, a barra de pesquisa permite filtrar as perguntas, e você pode limpar a busca a qualquer momento clicando no botão "X", retornando à lista completa de perguntas. Essa funcionalidade foi criada para ajudar você a resolver rapidamente suas dúvidas sobre como usar o aplicativo.
