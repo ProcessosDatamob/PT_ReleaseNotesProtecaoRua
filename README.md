@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Descritivo Técnico da Solução Proteção Rua - Android
 
 ### **Apresentação da Solução**  <a href="#apresentacao-da-solucao" id="apresentacao-da-solucao"></a>
