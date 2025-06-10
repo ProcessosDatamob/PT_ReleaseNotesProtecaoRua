@@ -1,1 +1,6 @@
+---
+hidden: true
+---
+
 # RELEASE NOTES
+
