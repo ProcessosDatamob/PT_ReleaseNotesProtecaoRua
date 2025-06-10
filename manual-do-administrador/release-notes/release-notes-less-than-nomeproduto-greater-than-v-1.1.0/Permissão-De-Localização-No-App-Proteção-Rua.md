@@ -1,3 +1,0 @@
-# Permissão De Localização No App Proteção Rua
-
-No app Proteção Rua, depois de fazer login, você verá uma tela inicial que explica por que é importante ativar a localização para que o app funcione corretamente. Ao clicar em "Continuar", será pedido que você permita o acesso à sua localização. Se você escolher "Permitir durante o uso do app", tudo seguirá normalmente. Se escolher "Permitir uma vez" ou "Não permitir", aparecerá um aviso sugerindo que você escolha a permissão adequada. Caso precise, você pode ir nas configurações do seu dispositivo para mudar a permissão a qualquer momento. Se preferir, ao clicar em "Fazer depois", você pode continuar usando o app sem permitir a localização imediatamente.

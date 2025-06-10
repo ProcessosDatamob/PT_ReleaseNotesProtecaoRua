@@ -2,18 +2,8 @@
 
 ## **Versão 1.1.0**
 
-### **Correções**
-
-1. [Botão Switch Master Inativo](Botão-Switch-Master-Inativo.md)
-2. [Bloqueio de Apps Fora do Local Seguro](Bloqueio-De-Apps-Fora-Do-Local-Seguro.md)
-3. [Atualização de Mensagem na Tela Home](Atualização-De-Mensagem-Na-Tela-Home.md)
-4. [Adicionar Novos Locais](Adicionar-Novos-Locais.md)
-5. [Ocultar Opções Após Negar Permissão de Localização](Ocultar-Opções-Após-Negar-Permissão-De-Localização.md)
-
-### **Novidades**
-
 1. [Bloquear e Desbloquear Apps Automaticamente](Bloquear-E-Desbloquear-Apps-Automaticamente.md)
-2. [Validação de Senha no Proteção Rua](Valida%C3%A7%C3%A3o-De-Senha-No-Prote%C3%A7%C3%A3o-Rua.md)
+2. [Validação de Senha no Proteção Rua](../../../release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/validacao-de-senha-no-protecao-rua.md)
 3. [Configurar Raio de Proteção](Configurar-Raio-De-Proteção.md)
 4. [Criação e Gerenciamento de Senhas no Perfil](Criação-E-Gerenciamento-De-Senhas-No-Perfil.md)
 5. [Cadastro de Contato de Confiança](Cadastro-De-Contato-De-Confiança.md)
@@ -21,14 +11,14 @@
 7. [Cadastro de Senha de Emergência no App Proteção Rua](Cadastro-De-Senha-De-Emergência-No-App-Proteção-Rua.md)
 8. [Visualização de Locais Seguros no App](Visualização-De-Locais-Seguros-No-App.md)
 9. [Confirmação de Configuração Completa no App Proteção Rua](Confirmação-De-Configuração-Completa-No-App-Proteção-Rua.md)
-10. [Exibição de Locais na Página Inicial sem Endereço Cadastrado](Exibição-De-Locais-Na-Página-Inicial-Sem-Endereço-Cadastrado.md)
+10. [Exibição de Locais na Página Inicial sem Endereço Cadastrado](broken-reference)
 11. [Seleção de Aplicativos no App Proteção Rua](Seleção-De-Aplicativos-No-App-Proteção-Rua.md)
 12. [Ajuste de Texto para Cadastro de Local Seguro](Ajuste-De-Texto-Para-Cadastro-De-Local-Seguro.md)
 13. [Cadastro de Local Seguro no App](Cadastro-De-Local-Seguro-No-App.md)
 14. [Cadastro de Senha Principal via Card de Incentivo](Cadastro-De-Senha-Principal-Via-Card-De-Incentivo.md)
-15. [Permissão de Notificações no App Proteção Rua](Permissão-De-Notificações-No-App-Proteção-Rua.md)
-16. [Permissão de Localização no App Proteção Rua](Permissão-De-Localização-No-App-Proteção-Rua.md)
-17. [Concessão de Permissão de Tempo de Uso no App Proteção Rua](Concessão-De-Permissão-De-Tempo-De-Uso-No-App-Proteção-Rua.md)
+15. [Permissão de Notificações no App Proteção Rua](broken-reference)
+16. [Permissão de Localização no App Proteção Rua](broken-reference)
+17. [Concessão de Permissão de Tempo de Uso no App Proteção Rua](broken-reference)
 18. [Renovação Automática de Token de Acesso](Renovação-Automática-De-Token-De-Acesso.md)
 19. [Criação e Edição de Locais Seguros no Mapa](Criação-E-Edição-De-Locais-Seguros-No-Mapa.md)
 20. [Sincronização Automática de Locais no App Proteção Rua](Sincronização-Automática-De-Locais-No-App-Proteção-Rua.md)
