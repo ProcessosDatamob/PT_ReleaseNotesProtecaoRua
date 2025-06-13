@@ -29,3 +29,4 @@
 22. [Acessibilidade na Tela de Sincronização de Informações](Acessibilidade-Na-Tela-De-Sincronização-De-Informações.md)
 23. [Acessibilidade na Tela de Permissões de Proteção Rua](Acessibilidade-Na-Tela-De-Permissões-De-Proteção-Rua.md)
 24. [Acessibilidade na Ativação de Localização no Proteção Rua](Acessibilidade-Na-Ativação-De-Localização-No-Proteção-Rua.md)
+25. [Acessibilidade na Tela de Erro de Sincronização](Acessibilidade-Na-Tela-De-Erro-De-Sincronização.md)
