@@ -26,3 +26,4 @@
 19. [Acessibilidade para Usuários com Deficiência Visual na Tela de Senha de Emergência](Acessibilidade-Para-Usuários-Com-Deficiência-Visual-Na-Tela-De-Senha-De-Emergência.md)
 20. [Acessibilidade na Tela de Cadastro de Senha Principal](Acessibilidade-Na-Tela-De-Cadastro-De-Senha-Principal.md)
 21. [Acessibilidade na Criação de Senha Principal](Acessibilidade-Na-Criação-De-Senha-Principal.md)
+22. [Acessibilidade na Tela de Sincronização de Informações](Acessibilidade-Na-Tela-De-Sincronização-De-Informações.md)
