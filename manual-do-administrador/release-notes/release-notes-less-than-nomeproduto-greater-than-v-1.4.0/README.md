@@ -8,3 +8,4 @@
 1. [Acessibilidade na Tela de Notificações](Acessibilidade-Na-Tela-De-Notificações.md)
 2. [Acessibilidade na Tela de Erro](Acessibilidade-Na-Tela-De-Erro.md)
 3. [Acessibilidade para Usuários com Deficiência Visual](Acessibilidade-Para-Usuários-Com-Deficiência-Visual.md)
+4. [Acessibilidade na Tela de FAQ](Acessibilidade-Na-Tela-De-Faq.md)
