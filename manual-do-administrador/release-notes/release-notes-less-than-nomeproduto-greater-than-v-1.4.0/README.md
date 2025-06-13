@@ -6,3 +6,4 @@
 ### **Novidades**
 
 1. [Acessibilidade na Tela de Notificações](Acessibilidade-Na-Tela-De-Notificações.md)
+2. [Acessibilidade na Tela de Erro](Acessibilidade-Na-Tela-De-Erro.md)
