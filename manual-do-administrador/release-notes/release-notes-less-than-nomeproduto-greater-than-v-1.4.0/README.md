@@ -20,3 +20,4 @@
 13. [Acessibilidade na Tela de Feedback da Proteção Rua](Acessibilidade-Na-Tela-De-Feedback-Da-Proteção-Rua.md)
 14. [Acessibilidade na Tela de Adicionar Contato de Confiança](Acessibilidade-Na-Tela-De-Adicionar-Contato-De-Confiança.md)
 15. [Acessibilidade para Gerenciar Contatos de Confiança](Acessibilidade-Para-Gerenciar-Contatos-De-Confiança.md)
+16. [Acessibilidade na Tela de Contato de Confiança](Acessibilidade-Na-Tela-De-Contato-De-Confiança.md)
