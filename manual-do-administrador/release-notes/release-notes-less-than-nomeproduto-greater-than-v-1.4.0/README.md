@@ -10,3 +10,4 @@
 3. [Acessibilidade para Usuários com Deficiência Visual](Acessibilidade-Para-Usuários-Com-Deficiência-Visual.md)
 4. [Acessibilidade na Tela de FAQ](Acessibilidade-Na-Tela-De-Faq.md)
 5. [Acessibilidade na Tela de Permissões Pendentes](Acessibilidade-Na-Tela-De-Permissões-Pendentes.md)
+6. [Acessibilidade na Edição de Contato de Confiança](Acessibilidade-Na-Edição-De-Contato-De-Confiança.md)
