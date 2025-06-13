@@ -36,3 +36,4 @@
 29. [Acessibilidade na Busca de Endereço do App Proteção Rua](Acessibilidade-Na-Busca-De-Endereço-Do-App-Proteção-Rua.md)
 30. [Acessibilidade no Modal de Exclusão de Local Seguro](Acessibilidade-No-Modal-De-Exclusão-De-Local-Seguro.md)
 31. [Acessibilidade no Modal de Opções de Local Seguro](Acessibilidade-No-Modal-De-Opções-De-Local-Seguro.md)
+32. [Acessibilidade na Tela "Escolha um nome para este local"](Acessibilidade-Na-Tela-"Escolha-Um-Nome-Para-Este-Local".md)
