@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Release Notes Proteção Rua V 1.2.0
 
 ## **Versão 1.2.0 - 06/2025**
