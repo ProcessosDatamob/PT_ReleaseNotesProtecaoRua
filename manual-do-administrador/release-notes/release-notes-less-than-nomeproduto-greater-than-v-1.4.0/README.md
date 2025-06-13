@@ -18,3 +18,4 @@
 11. [Acessibilidade na Tela de Gerenciar Senhas](Acessibilidade-Na-Tela-De-Gerenciar-Senhas.md)
 12. [Acessibilidade da Tela de Perfil para Usuários com Deficiência Visual](Acessibilidade-Da-Tela-De-Perfil-Para-Usuários-Com-Deficiência-Visual.md)
 13. [Acessibilidade na Tela de Feedback da Proteção Rua](Acessibilidade-Na-Tela-De-Feedback-Da-Proteção-Rua.md)
+14. [Acessibilidade na Tela de Adicionar Contato de Confiança](Acessibilidade-Na-Tela-De-Adicionar-Contato-De-Confiança.md)
