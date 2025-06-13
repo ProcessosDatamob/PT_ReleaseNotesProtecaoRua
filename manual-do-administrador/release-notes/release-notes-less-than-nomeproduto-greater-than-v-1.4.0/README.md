@@ -28,3 +28,4 @@
 21. [Acessibilidade na Criação de Senha Principal](Acessibilidade-Na-Criação-De-Senha-Principal.md)
 22. [Acessibilidade na Tela de Sincronização de Informações](Acessibilidade-Na-Tela-De-Sincronização-De-Informações.md)
 23. [Acessibilidade na Tela de Permissões de Proteção Rua](Acessibilidade-Na-Tela-De-Permissões-De-Proteção-Rua.md)
+24. [Acessibilidade na Ativação de Localização no Proteção Rua](Acessibilidade-Na-Ativação-De-Localização-No-Proteção-Rua.md)
