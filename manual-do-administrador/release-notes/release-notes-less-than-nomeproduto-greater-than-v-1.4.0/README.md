@@ -31,3 +31,4 @@
 24. [Acessibilidade na Ativação de Localização no Proteção Rua](Acessibilidade-Na-Ativação-De-Localização-No-Proteção-Rua.md)
 25. [Acessibilidade na Tela de Erro de Sincronização](Acessibilidade-Na-Tela-De-Erro-De-Sincronização.md)
 26. [Acessibilidade na Tela de Troca de Dispositivo](Acessibilidade-Na-Tela-De-Troca-De-Dispositivo.md)
+27. [Acessibilidade na Tela "Limite de Locais Seguros Atingido"](Acessibilidade-Na-Tela-"Limite-De-Locais-Seguros-Atingido".md)
