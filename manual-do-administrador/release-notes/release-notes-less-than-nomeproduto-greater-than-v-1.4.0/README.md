@@ -16,3 +16,4 @@
 9. [Acessibilidade na Tela de Alterar Senha de Emergência](Acessibilidade-Na-Tela-De-Alterar-Senha-De-Emergência.md)
 10. [Acessibilidade na Mudança de Senha Principal](Acessibilidade-Na-Mudança-De-Senha-Principal.md)
 11. [Acessibilidade na Tela de Gerenciar Senhas](Acessibilidade-Na-Tela-De-Gerenciar-Senhas.md)
+12. [Acessibilidade da Tela de Perfil para Usuários com Deficiência Visual](Acessibilidade-Da-Tela-De-Perfil-Para-Usuários-Com-Deficiência-Visual.md)
