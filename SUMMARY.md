@@ -49,6 +49,7 @@
     * [Acessibilidade No Modal De Exclusão De Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-No-Modal-De-Exclusão-De-Local-Seguro.md)
     * [Acessibilidade No Modal De Opções De Local Seguro](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-No-Modal-De-Opções-De-Local-Seguro.md)
     * [Acessibilidade Na Tela "Escolha Um Nome Para Este Local"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-"Escolha-Um-Nome-Para-Este-Local".md)
+    * [Acessibilidade Na Tela "Definir Área Segura" Do App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-"Definir-Área-Segura"-Do-App-Proteção-Rua.md)
   * [Release Notes Proteção Rua V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
