@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Release Notes Proteção Rua V 1.0.0
 
 ## **Versão 1.0.0**
