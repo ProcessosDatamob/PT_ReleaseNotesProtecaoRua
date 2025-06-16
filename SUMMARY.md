@@ -20,6 +20,7 @@
   * [Release Notes \<NomeProduto> V 1.4.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/README.md)
     * [Acessibilidade Na Tela De Notificações](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Notificações.md)
     * [Acessibilidade Da Tela De Erro Para Deficientes Visuais](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Da-Tela-De-Erro-Para-Deficientes-Visuais.md)
+    * [Acessibilidade Para Usuários Com Deficiência Visual](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Para-Usuários-Com-Deficiência-Visual.md)
   * [Release Notes Proteção Rua V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
