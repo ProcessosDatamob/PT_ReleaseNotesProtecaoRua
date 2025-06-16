@@ -9,3 +9,4 @@
 2. [Acessibilidade da Tela de Erro para Deficientes Visuais](Acessibilidade-Da-Tela-De-Erro-Para-Deficientes-Visuais.md)
 3. [Acessibilidade para Usuários com Deficiência Visual](Acessibilidade-Para-Usuários-Com-Deficiência-Visual.md)
 4. [Acessibilidade na Tela de FAQ](Acessibilidade-Na-Tela-De-Faq.md)
+5. [Acessibilidade na Tela de Permissões Pendentes](Acessibilidade-Na-Tela-De-Permissões-Pendentes.md)
