@@ -1,7 +1,10 @@
-# Release Notes less-than-nomeproduto-greater-than V 1.4.0
+---
+hidden: true
+---
+
+# Release Notes \<NomeProduto> V 1.4.0
 
 ## **Versão 1.4.0 - 06/2025**
-
 
 ### **Novidades**
 
@@ -31,14 +34,14 @@
 24. [Acessibilidade na Ativação de Localização do Proteção Rua](Acessibilidade-Na-Ativação-De-Localização-Do-Proteção-Rua.md)
 25. [Acessibilidade na Tela de Erro de Sincronização do Proteção Rua](Acessibilidade-Na-Tela-De-Erro-De-Sincronização-Do-Proteção-Rua.md)
 26. [Acessibilidade na Tela de Troca de Dispositivo](Acessibilidade-Na-Tela-De-Troca-De-Dispositivo.md)
-27. [Acessibilidade na Tela "Limite de Locais Seguros Atingido"](Acessibilidade-Na-Tela-"Limite-De-Locais-Seguros-Atingido".md)
-28. [Acessibilidade na Tela "Gerenciar os Locais Seguros"](Acessibilidade-Na-Tela-"Gerenciar-Os-Locais-Seguros".md)
+27. [Acessibilidade na Tela "Limite de Locais Seguros Atingido"](Acessibilidade-Na-Tela-Limite-De-Locais-Seguros-Atingido.md)
+28. [Acessibilidade na Tela "Gerenciar os Locais Seguros"](Acessibilidade-Na-Tela-Gerenciar-Os-Locais-Seguros.md)
 29. [Acessibilidade na Busca de Endereço do App Proteção Rua](Acessibilidade-Na-Busca-De-Endereço-Do-App-Proteção-Rua.md)
 30. [Acessibilidade no Modal de Exclusão de Local Seguro](Acessibilidade-No-Modal-De-Exclusão-De-Local-Seguro.md)
 31. [Acessibilidade no Modal de Opções de Local Seguro](Acessibilidade-No-Modal-De-Opções-De-Local-Seguro.md)
-32. [Acessibilidade na Tela "Escolha um nome para este local" do App Proteção Rua](Acessibilidade-Na-Tela-"Escolha-Um-Nome-Para-Este-Local"-Do-App-Proteção-Rua.md)
-33. [Acessibilidade na Tela "Definir Área Segura"](Acessibilidade-Na-Tela-"Definir-Área-Segura".md)
-34. [Acessibilidade na Tela "Adicionar Local Seguro"](Acessibilidade-Na-Tela-"Adicionar-Local-Seguro".md)
+32. [Acessibilidade na Tela "Escolha um nome para este local" do App Proteção Rua](Acessibilidade-Na-Tela-Escolha-Um-Nome-Para-Este-Local-Do-App-Proteção-Rua.md)
+33. [Acessibilidade na Tela "Definir Área Segura"](Acessibilidade-Na-Tela-Definir-Área-Segura.md)
+34. [Acessibilidade na Tela "Adicionar Local Seguro"](Acessibilidade-Na-Tela-Adicionar-Local-Seguro.md)
 35. [Acessibilidade na Tela de Seleção de Linha](Acessibilidade-Na-Tela-De-Seleção-De-Linha.md)
 36. [Acessibilidade da Tela Home Não Configurada](Acessibilidade-Da-Tela-Home-Não-Configurada.md)
 37. [Acessibilidade Completa da Tela Principal no App](Acessibilidade-Completa-Da-Tela-Principal-No-App.md)
