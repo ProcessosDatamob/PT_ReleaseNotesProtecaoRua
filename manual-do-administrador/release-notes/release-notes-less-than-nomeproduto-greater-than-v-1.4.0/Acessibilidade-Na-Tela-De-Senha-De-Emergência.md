@@ -1,5 +1,5 @@
 # Acessibilidade na Tela de Senha de Emergência
 
-**ID: US-BTC-458**
+**ID:** **US-BTC-456**
 
-Descrição: No app Proteção Rua, a tela onde você cria e confirma a sua senha de emergência foi melhorada para ajudar pessoas com deficiência visual. Agora, quem usa leitores de tela pode ouvir os elementos na ordem certa e entender claramente o que cada um faz, já que as descrições são claras e dizem que tipo de componente é. Se houver algum erro, você será informado imediatamente, o que torna a experiência mais fácil e tranquila para quem utiliza tecnologias assistivas.
+**Descrição:** No aplicativo Proteção Rua, os usuários com deficiência visual podem acessar a tela de introdução à senha de emergência de forma fácil e eficiente. A leitura dos elementos é feita em uma sequência lógica e as descrições oferecidas pelo leitor de tela são claras e detalhadas. Isso garante que todos os componentes da tela sejam facilmente reconhecidos e entendidos, permitindo que os usuários façam escolhas informadas ao usar tecnologias assistivas.
