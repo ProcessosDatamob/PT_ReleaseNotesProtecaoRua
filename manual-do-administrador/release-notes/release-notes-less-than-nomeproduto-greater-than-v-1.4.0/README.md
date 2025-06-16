@@ -11,3 +11,4 @@
 4. [Acessibilidade na Tela de FAQ](Acessibilidade-Na-Tela-De-Faq.md)
 5. [Acessibilidade na Tela de Permissões Pendentes](Acessibilidade-Na-Tela-De-Permissões-Pendentes.md)
 6. [Acessibilidade na Edição de Contato de Confiança](Acessibilidade-Na-Edição-De-Contato-De-Confiança.md)
+7. [Acessibilidade na Seleção de Contato para Edição](Acessibilidade-Na-Seleção-De-Contato-Para-Edição.md)
