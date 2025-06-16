@@ -38,3 +38,4 @@
 31. [Acessibilidade no Modal de Opções de Local Seguro](Acessibilidade-No-Modal-De-Opções-De-Local-Seguro.md)
 32. [Acessibilidade na Tela "Escolha um nome para este local" do App Proteção Rua](Acessibilidade-Na-Tela-"Escolha-Um-Nome-Para-Este-Local"-Do-App-Proteção-Rua.md)
 33. [Acessibilidade na Tela "Definir Área Segura"](Acessibilidade-Na-Tela-"Definir-Área-Segura".md)
+34. [Acessibilidade na Tela "Adicionar Local Seguro"](Acessibilidade-Na-Tela-"Adicionar-Local-Seguro".md)
