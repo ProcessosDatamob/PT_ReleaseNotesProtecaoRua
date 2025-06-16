@@ -1,5 +1,5 @@
 # Acessibilidade na Tela de Contato de Confiança
 
-**ID: US-BTC-460**
+**ID: US-BTC-459**
 
-Descrição: No portal, usuários que precisam de recursos de acessibilidade podem facilmente adicionar ou editar um segundo contato de confiança na tela específica, que foi projetada para ser acessível. A navegação pelos elementos é organizada de forma lógica, com uma sequência clara para mover entre os itens, além de descrições detalhadas e identificação correta dos tipos de componentes. Isso facilita o gerenciamento eficaz e claro dos contatos de confiança, especialmente para aqueles que utilizam tecnologia assistiva, como leitores de tela.
+Descrição: Esta funcionalidade no aplicativo garante que a tela "Adicionar um contato de confiança" seja fácil de usar para pessoas com necessidades especiais. A navegação pelos elementos da tela é organizada de maneira lógica para que todos consigam entender e usar facilmente. Os leitores de tela e outras tecnologias assistivas fornecem descrições claras de cada parte da tela, ajudando os usuários a saberem para que serve cada item. Todos os elementos são identificados de forma clara, assegurando que os usuários compreendam suas funções sem dificuldade.
