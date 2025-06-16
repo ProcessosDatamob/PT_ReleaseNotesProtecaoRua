@@ -33,6 +33,7 @@
     * [Acessibilidade Na Tela De Feedback Da Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Feedback-Da-Proteção-Rua.md)
     * [Acessibilidade Na Tela De Contato De Confiança](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Contato-De-Confiança.md)
     * [Acessibilidade Na Tela De Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Senha-De-Emergência.md)
+    * [Acessibilidade Para Detalhes Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Para-Detalhes-Da-Senha-De-Emergência.md)
   * [Release Notes Proteção Rua V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
