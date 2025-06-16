@@ -40,3 +40,4 @@
 33. [Acessibilidade na Tela "Definir Área Segura"](Acessibilidade-Na-Tela-"Definir-Área-Segura".md)
 34. [Acessibilidade na Tela "Adicionar Local Seguro"](Acessibilidade-Na-Tela-"Adicionar-Local-Seguro".md)
 35. [Acessibilidade na Tela de Seleção de Linha](Acessibilidade-Na-Tela-De-Seleção-De-Linha.md)
+36. [Acessibilidade da Tela Home Não Configurada](Acessibilidade-Da-Tela-Home-Não-Configurada.md)
