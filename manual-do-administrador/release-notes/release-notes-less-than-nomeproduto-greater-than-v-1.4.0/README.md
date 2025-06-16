@@ -14,3 +14,4 @@
 7. [Acessibilidade na Seleção de Contato para Edição](Acessibilidade-Na-Seleção-De-Contato-Para-Edição.md)
 8. [Acessibilidade na Tela de Feedback de Senha](Acessibilidade-Na-Tela-De-Feedback-De-Senha.md)
 9. [Acessibilidade na Alteração de Senha de Emergência](Acessibilidade-Na-Alteração-De-Senha-De-Emergência.md)
+10. [Acessibilidade na Mudança de Senha Principal](Acessibilidade-Na-Mudança-De-Senha-Principal.md)
