@@ -19,3 +19,4 @@
 12. [Acessibilidade na Tela de Perfil](Acessibilidade-Na-Tela-De-Perfil.md)
 13. [Acessibilidade na Tela de Feedback da Proteção Rua](Acessibilidade-Na-Tela-De-Feedback-Da-Proteção-Rua.md)
 14. [Acessibilidade na Tela de Contato de Confiança](Acessibilidade-Na-Tela-De-Contato-De-Confiança.md)
+15. [Acessibilidade na Tela de Contato de Confiança](Acessibilidade-Na-Tela-De-Contato-De-Confiança.md)
