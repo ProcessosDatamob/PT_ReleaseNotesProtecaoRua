@@ -42,3 +42,4 @@
 35. [Acessibilidade na Tela de Seleção de Linha](Acessibilidade-Na-Tela-De-Seleção-De-Linha.md)
 36. [Acessibilidade da Tela Home Não Configurada](Acessibilidade-Da-Tela-Home-Não-Configurada.md)
 37. [Acessibilidade Completa da Tela Principal no App](Acessibilidade-Completa-Da-Tela-Principal-No-App.md)
+38. [Acessibilidade da Tela Inicial do App Proteção Rua](Acessibilidade-Da-Tela-Inicial-Do-App-Proteção-Rua.md)
