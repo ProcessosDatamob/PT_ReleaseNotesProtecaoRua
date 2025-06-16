@@ -43,6 +43,7 @@
     * [Acessibilidade Na Tela De Troca De Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Troca-De-Dispositivo.md)
     * [Acessibilidade Na Tela "Limite De Locais Seguros Atingido"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-"Limite-De-Locais-Seguros-Atingido".md)
     * [Acessibilidade Na Tela "Gerenciar Os Locais Seguros"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-"Gerenciar-Os-Locais-Seguros".md)
+    * [Acessibilidade Na Busca De Endereço Do App Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Busca-De-Endereço-Do-App-Proteção-Rua.md)
   * [Release Notes Proteção Rua V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
