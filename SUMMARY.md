@@ -40,6 +40,7 @@
     * [Acessibilidade Na Tela De Permissões Do Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Permissões-Do-Proteção-Rua.md)
     * [Acessibilidade Na Ativação De Localização Do Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Ativação-De-Localização-Do-Proteção-Rua.md)
     * [Acessibilidade Na Tela De Erro De Sincronização Do Proteção Rua](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Erro-De-Sincronização-Do-Proteção-Rua.md)
+    * [Acessibilidade Na Tela De Troca De Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acessibilidade-Na-Tela-De-Troca-De-Dispositivo.md)
   * [Release Notes Proteção Rua V 1.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificação De Atualização Disponível](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Atualização-Disponível.md)
     * [Notificação De Uso Da Senha De Emergência](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificação-De-Uso-Da-Senha-De-Emergência.md)
