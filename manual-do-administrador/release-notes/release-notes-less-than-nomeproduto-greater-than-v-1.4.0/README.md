@@ -41,3 +41,4 @@
 34. [Acessibilidade na Tela "Adicionar Local Seguro"](Acessibilidade-Na-Tela-"Adicionar-Local-Seguro".md)
 35. [Acessibilidade na Tela de Seleção de Linha](Acessibilidade-Na-Tela-De-Seleção-De-Linha.md)
 36. [Acessibilidade da Tela Home Não Configurada](Acessibilidade-Da-Tela-Home-Não-Configurada.md)
+37. [Acessibilidade Completa da Tela Principal no App](Acessibilidade-Completa-Da-Tela-Principal-No-App.md)
