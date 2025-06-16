@@ -22,3 +22,4 @@
 15. [Acessibilidade na Tela de Contato de Confiança](Acessibilidade-Na-Tela-De-Contato-De-Confiança.md)
 16. [Acessibilidade na Tela de Contato de Confiança](Acessibilidade-Na-Tela-De-Contato-De-Confiança.md)
 17. [Acessibilidade na Tela de Senha de Emergência](Acessibilidade-Na-Tela-De-Senha-De-Emergência.md)
+18. [Acessibilidade para Detalhes da Senha de Emergência](Acessibilidade-Para-Detalhes-Da-Senha-De-Emergência.md)
