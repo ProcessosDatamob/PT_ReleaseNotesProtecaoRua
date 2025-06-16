@@ -1,0 +1,5 @@
+# Acessibilidade na Tela "Escolha um nome para este local" do App Proteção Rua
+
+**ID: US-BTC-358**
+
+Agora, a tela "Escolha um nome para este local" no aplicativo Proteção Rua está totalmente acessível, permitindo que todos os usuários, incluindo aqueles que dependem de leitores de tela, naveguem com facilidade. Os elementos da tela, como botões e opções de local, possuem descrições claras e são anunciados de forma lógica. Por exemplo, os botões "Fechar janela" e "Salvar nome" estão claramente identificados, garantindo que os usuários saibam suas funções. Quando a opção "Outro" é selecionada, o campo de texto para inserir o nome é ativado automaticamente, e o teclado é exibido, acompanhado pela etiqueta "Escreva o nome do endereço", que também é anunciada. Isso tudo proporciona uma experiência tranquila e autônoma na nomeação de locais seguros, tornando o processo mais independente e eficiente para todos os usuários.
