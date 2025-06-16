@@ -7,3 +7,4 @@
 
 1. [Acessibilidade na Tela de Notificações](Acessibilidade-Na-Tela-De-Notificações.md)
 2. [Acessibilidade da Tela de Erro para Deficientes Visuais](Acessibilidade-Da-Tela-De-Erro-Para-Deficientes-Visuais.md)
+3. [Acessibilidade para Usuários com Deficiência Visual](Acessibilidade-Para-Usuários-Com-Deficiência-Visual.md)
